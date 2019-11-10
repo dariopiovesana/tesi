@@ -1,0 +1,100 @@
+match;date;result;Home_team;Away_team
+AC Milan-Spal;31/10/2019;1-0;AC Milan;Spal
+Cagliari-Bologna;30/10/2019;03-feb;Cagliari;Bologna
+Juventus-Genoa;30/10/2019;02-gen;Juventus;Genoa
+Lazio-Torino;30/10/2019;4-0;Lazio;Torino
+Napoli-Atalanta;30/10/2019;02-feb;Napoli;Atalanta
+Sampdoria-Lecce;30/10/2019;01-gen;Sampdoria;Lecce
+Sassuolo-Fiorentina;30/10/2019;01-feb;Sassuolo;Fiorentina
+Udinese-AS Roma;30/10/2019;0-4;Udinese;AS Roma
+Brescia-Inter;29/10/2019;01-feb;Brescia;Inter
+Parma-Verona;29/10/2019;0-1;Parma;Verona
+AS Roma-AC Milan;27/10/2019;02-gen;AS Roma;AC Milan
+Atalanta-Udinese;27/10/2019;07-gen;Atalanta;Udinese
+Bologna-Sampdoria;27/10/2019;02-gen;Bologna;Sampdoria
+Fiorentina-Lazio;27/10/2019;01-feb;Fiorentina;Lazio
+Spal-Napoli;27/10/2019;01-gen;Spal;Napoli
+Torino-Cagliari;27/10/2019;01-gen;Torino;Cagliari
+Genoa-Brescia;26/10/2019;03-gen;Genoa;Brescia
+Inter-Parma;26/10/2019;02-feb;Inter;Parma
+Lecce-Juventus;26/10/2019;01-gen;Lecce;Juventus
+Verona-Sassuolo;25/10/2019;0-1;Verona;Sassuolo
+Brescia-Fiorentina;21/10/2019;0-0;Brescia;Fiorentina
+AC Milan-Lecce;20/10/2019;02-feb;AC Milan;Lecce
+Cagliari-Spal;20/10/2019;2-0;Cagliari;Spal
+Parma-Genoa;20/10/2019;05-gen;Parma;Genoa
+Sampdoria-AS Roma;20/10/2019;0-0;Sampdoria;AS Roma
+Sassuolo-Inter;20/10/2019;03-apr;Sassuolo;Inter
+Udinese-Torino;20/10/2019;1-0;Udinese;Torino
+Juventus-Bologna;19/10/2019;02-gen;Juventus;Bologna
+Lazio-Atalanta;19/10/2019;03-mar;Lazio;Atalanta
+Napoli-Verona;19/10/2019;2-0;Napoli;Verona
+AS Roma-Cagliari;06/10/2019;01-gen;AS Roma;Cagliari
+Atalanta-Lecce;06/10/2019;03-gen;Atalanta;Lecce
+Bologna-Lazio;06/10/2019;02-feb;Bologna;Lazio
+Fiorentina-Udinese;06/10/2019;1-0;Fiorentina;Udinese
+Inter-Juventus;06/10/2019;01-feb;Inter;Juventus
+Torino-Napoli;06/10/2019;0-0;Torino;Napoli
+Genoa-AC Milan;05/10/2019;01-feb;Genoa;AC Milan
+Spal-Parma;05/10/2019;1-0;Spal;Parma
+Verona-Sampdoria;05/10/2019;2-0;Verona;Sampdoria
+Parma-Torino;30/09/2019;03-feb;Parma;Torino
+AC Milan-Fiorentina;29/09/2019;01-mar;AC Milan;Fiorentina
+Cagliari-Verona;29/09/2019;01-gen;Cagliari;Verona
+Lazio-Genoa;29/09/2019;4-0;Lazio;Genoa
+Lecce-AS Roma;29/09/2019;0-1;Lecce;AS Roma
+Napoli-Brescia;29/09/2019;02-gen;Napoli;Brescia
+Udinese-Bologna;29/09/2019;1-0;Udinese;Bologna
+Juventus-Spal;28/09/2019;2-0;Juventus;Spal
+Sampdoria-Inter;28/09/2019;01-mar;Sampdoria;Inter
+Sassuolo-Atalanta;28/09/2019;01-apr;Sassuolo;Atalanta
+Torino-AC Milan;26/09/2019;02-gen;Torino;AC Milan
+AS Roma-Atalanta;25/09/2019;0-2;AS Roma;Atalanta
+Fiorentina-Sampdoria;25/09/2019;02-gen;Fiorentina;Sampdoria
+Genoa-Bologna;25/09/2019;0-0;Genoa;Bologna
+Inter-Lazio;25/09/2019;1-0;Inter;Lazio
+Napoli-Cagliari;25/09/2019;0-1;Napoli;Cagliari
+Parma-Sassuolo;25/09/2019;1-0;Parma;Sassuolo
+Spal-Lecce;25/09/2019;01-mar;Spal;Lecce
+Brescia-Juventus;24/09/2019;01-feb;Brescia;Juventus
+Verona-Udinese;24/09/2019;0-0;Verona;Udinese
+Atalanta-Fiorentina;22/09/2019;02-feb;Atalanta;Fiorentina
+Bologna-AS Roma;22/09/2019;01-feb;Bologna;AS Roma
+Lazio-Parma;22/09/2019;2-0;Lazio;Parma
+Lecce-Napoli;22/09/2019;01-apr;Lecce;Napoli
+Sampdoria-Torino;22/09/2019;1-0;Sampdoria;Torino
+Sassuolo-Spal;22/09/2019;3-0;Sassuolo;Spal
+AC Milan-Inter;21/09/2019;0-2;AC Milan;Inter
+Juventus-Verona;21/09/2019;02-gen;Juventus;Verona
+Udinese-Brescia;21/09/2019;0-1;Udinese;Brescia
+Cagliari-Genoa;20/09/2019;03-gen;Cagliari;Genoa
+Torino-Lecce;16/09/2019;01-feb;Torino;Lecce
+AS Roma-Sassuolo;15/09/2019;04-feb;AS Roma;Sassuolo
+Brescia-Bologna;15/09/2019;03-apr;Brescia;Bologna
+Genoa-Atalanta;15/09/2019;01-feb;Genoa;Atalanta
+Parma-Cagliari;15/09/2019;01-mar;Parma;Cagliari
+Spal-Lazio;15/09/2019;02-gen;Spal;Lazio
+Verona-AC Milan;15/09/2019;0-1;Verona;AC Milan
+Fiorentina-Juventus;14/09/2019;0-0;Fiorentina;Juventus
+Inter-Udinese;14/09/2019;1-0;Inter;Udinese
+Napoli-Sampdoria;14/09/2019;2-0;Napoli;Sampdoria
+Atalanta-Torino;01/09/2019;02-mar;Atalanta;Torino
+Cagliari-Inter;01/09/2019;01-feb;Cagliari;Inter
+Genoa-Fiorentina;01/09/2019;02-gen;Genoa;Fiorentina
+Lazio-AS Roma;01/09/2019;01-gen;Lazio;AS Roma
+Lecce-Verona;01/09/2019;0-1;Lecce;Verona
+Sassuolo-Sampdoria;01/09/2019;04-gen;Sassuolo;Sampdoria
+Udinese-Parma;01/09/2019;01-mar;Udinese;Parma
+AC Milan-Brescia;31/08/2019;1-0;AC Milan;Brescia
+Juventus-Napoli;31/08/2019;04-mar;Juventus;Napoli
+Bologna-Spal;30/08/2019;1-0;Bologna;Spal
+Inter-Lecce;26/08/2019;4-0;Inter;Lecce
+AS Roma-Genoa;25/08/2019;03-mar;AS Roma;Genoa
+Cagliari-Brescia;25/08/2019;0-1;Cagliari;Brescia
+Sampdoria-Lazio;25/08/2019;0-3;Sampdoria;Lazio
+Spal-Atalanta;25/08/2019;02-mar;Spal;Atalanta
+Torino-Sassuolo;25/08/2019;02-gen;Torino;Sassuolo
+Udinese-AC Milan;25/08/2019;1-0;Udinese;AC Milan
+Verona-Bologna;25/08/2019;01-gen;Verona;Bologna
+Fiorentina-Napoli;24/08/2019;03-apr;Fiorentina;Napoli
+Parma-Juventus;24/08/2019;0-1;Parma;Juventus

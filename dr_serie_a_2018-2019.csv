@@ -1,0 +1,381 @@
+match;date;result;match;
+AS Roma-Parma;26/05/2019;02-gen;AS Roma;Parma
+Atalanta-Sassuolo;26/05/2019;03-gen;Atalanta;Sassuolo
+Cagliari-Udinese;26/05/2019;01-feb;Cagliari;Udinese
+Fiorentina-Genoa;26/05/2019;0-0;Fiorentina;Genoa
+Inter-Empoli;26/05/2019;02-gen;Inter;Empoli
+Sampdoria-Juventus;26/05/2019;2-0;Sampdoria;Juventus
+Spal-AC Milan;26/05/2019;02-mar;Spal;AC Milan
+Torino-Lazio;26/05/2019;03-gen;Torino;Lazio
+Bologna-Napoli;25/05/2019;03-feb;Bologna;Napoli
+Frosinone-Chievo;25/05/2019;0-0;Frosinone;Chievo
+Lazio-Bologna;20/05/2019;03-mar;Lazio;Bologna
+AC Milan-Frosinone;19/05/2019;2-0;AC Milan;Frosinone
+Chievo-Sampdoria;19/05/2019;0-0;Chievo;Sampdoria
+Empoli-Torino;19/05/2019;04-gen;Empoli;Torino
+Juventus-Atalanta;19/05/2019;01-gen;Juventus;Atalanta
+Napoli-Inter;19/05/2019;04-gen;Napoli;Inter
+Parma-Fiorentina;19/05/2019;1-0;Parma;Fiorentina
+Genoa-Cagliari;18/05/2019;01-gen;Genoa;Cagliari
+Sassuolo-AS Roma;18/05/2019;0-0;Sassuolo;AS Roma
+Udinese-Spal;18/05/2019;03-feb;Udinese;Spal
+Bologna-Parma;13/05/2019;04-gen;Bologna;Parma
+Inter-Chievo;13/05/2019;2-0;Inter;Chievo
+AS Roma-Juventus;12/05/2019;2-0;AS Roma;Juventus
+Frosinone-Udinese;12/05/2019;01-mar;Frosinone;Udinese
+Sampdoria-Empoli;12/05/2019;01-feb;Sampdoria;Empoli
+Spal-Napoli;12/05/2019;01-feb;Spal;Napoli
+Torino-Sassuolo;12/05/2019;03-feb;Torino;Sassuolo
+Atalanta-Genoa;11/05/2019;02-gen;Atalanta;Genoa
+Cagliari-Lazio;11/05/2019;01-feb;Cagliari;Lazio
+Fiorentina-AC Milan;11/05/2019;0-1;Fiorentina;AC Milan
+AC Milan-Bologna;06/05/2019;02-gen;AC Milan;Bologna
+Empoli-Fiorentina;05/05/2019;1-0;Empoli;Fiorentina
+Genoa-AS Roma;05/05/2019;01-gen;Genoa;AS Roma
+Lazio-Atalanta;05/05/2019;01-mar;Lazio;Atalanta
+Napoli-Cagliari;05/05/2019;02-gen;Napoli;Cagliari
+Parma-Sampdoria;05/05/2019;03-mar;Parma;Sampdoria
+Sassuolo-Frosinone;05/05/2019;02-feb;Sassuolo;Frosinone
+Chievo-Spal;04/05/2019;0-4;Chievo;Spal
+Udinese-Inter;04/05/2019;0-0;Udinese;Inter
+Juventus-Torino;03/05/2019;01-gen;Juventus;Torino
+Atalanta-Udinese;29/04/2019;2-0;Atalanta;Udinese
+Fiorentina-Sassuolo;29/04/2019;0-1;Fiorentina;Sassuolo
+Chievo-Parma;28/04/2019;01-gen;Chievo;Parma
+Frosinone-Napoli;28/04/2019;0-2;Frosinone;Napoli
+Sampdoria-Lazio;28/04/2019;01-feb;Sampdoria;Lazio
+Spal-Genoa;28/04/2019;01-gen;Spal;Genoa
+Torino-AC Milan;28/04/2019;2-0;Torino;AC Milan
+AS Roma-Cagliari;27/04/2019;3-0;AS Roma;Cagliari
+Bologna-Empoli;27/04/2019;03-gen;Bologna;Empoli
+Inter-Juventus;27/04/2019;01-gen;Inter;Juventus
+Napoli-Atalanta;22/04/2019;01-feb;Napoli;Atalanta
+Bologna-Sampdoria;20/04/2019;3-0;Bologna;Sampdoria
+Cagliari-Frosinone;20/04/2019;1-0;Cagliari;Frosinone
+Empoli-Spal;20/04/2019;02-apr;Empoli;Spal
+Genoa-Torino;20/04/2019;0-1;Genoa;Torino
+Inter-AS Roma;20/04/2019;01-gen;Inter;AS Roma
+Juventus-Fiorentina;20/04/2019;02-gen;Juventus;Fiorentina
+Lazio-Chievo;20/04/2019;01-feb;Lazio;Chievo
+Parma-AC Milan;20/04/2019;01-gen;Parma;AC Milan
+Udinese-Sassuolo;20/04/2019;01-gen;Udinese;Sassuolo
+Lazio-Udinese;17/04/2019;2-0;Lazio;Udinese
+Atalanta-Empoli;15/04/2019;0-0;Atalanta;Empoli
+Chievo-Napoli;14/04/2019;01-mar;Chievo;Napoli
+Fiorentina-Bologna;14/04/2019;0-0;Fiorentina;Bologna
+Frosinone-Inter;14/04/2019;01-mar;Frosinone;Inter
+Sampdoria-Genoa;14/04/2019;2-0;Sampdoria;Genoa
+Sassuolo-Parma;14/04/2019;0-0;Sassuolo;Parma
+Torino-Cagliari;14/04/2019;01-gen;Torino;Cagliari
+AC Milan-Lazio;13/04/2019;1-0;AC Milan;Lazio
+AS Roma-Udinese;13/04/2019;1-0;AS Roma;Udinese
+Spal-Juventus;13/04/2019;02-gen;Spal;Juventus
+Bologna-Chievo;08/04/2019;3-0;Bologna;Chievo
+Cagliari-Spal;07/04/2019;02-gen;Cagliari;Spal
+Fiorentina-Frosinone;07/04/2019;0-1;Fiorentina;Frosinone
+Inter-Atalanta;07/04/2019;0-0;Inter;Atalanta
+Lazio-Sassuolo;07/04/2019;02-feb;Lazio;Sassuolo
+Napoli-Genoa;07/04/2019;01-gen;Napoli;Genoa
+Udinese-Empoli;07/04/2019;03-feb;Udinese;Empoli
+Juventus-AC Milan;06/04/2019;02-gen;Juventus;AC Milan
+Parma-Torino;06/04/2019;0-0;Parma;Torino
+Sampdoria-AS Roma;06/04/2019;0-1;Sampdoria;AS Roma
+Atalanta-Bologna;04/04/2019;04-gen;Atalanta;Bologna
+Sassuolo-Chievo;04/04/2019;4-0;Sassuolo;Chievo
+AS Roma-Fiorentina;03/04/2019;02-feb;AS Roma;Fiorentina
+Empoli-Napoli;03/04/2019;02-gen;Empoli;Napoli
+Frosinone-Parma;03/04/2019;03-feb;Frosinone;Parma
+Genoa-Inter;03/04/2019;0-4;Genoa;Inter
+Spal-Lazio;03/04/2019;1-0;Spal;Lazio
+Torino-Sampdoria;03/04/2019;02-gen;Torino;Sampdoria
+AC Milan-Udinese;02/04/2019;01-gen;AC Milan;Udinese
+Cagliari-Juventus;02/04/2019;0-2;Cagliari;Juventus
+AS Roma-Napoli;31/03/2019;01-apr;AS Roma;Napoli
+Bologna-Sassuolo;31/03/2019;02-gen;Bologna;Sassuolo
+Fiorentina-Torino;31/03/2019;01-gen;Fiorentina;Torino
+Frosinone-Spal;31/03/2019;0-1;Frosinone;Spal
+Inter-Lazio;31/03/2019;0-1;Inter;Lazio
+Parma-Atalanta;31/03/2019;01-mar;Parma;Atalanta
+Juventus-Empoli;30/03/2019;1-0;Juventus;Empoli
+Sampdoria-AC Milan;30/03/2019;1-0;Sampdoria;AC Milan
+Udinese-Genoa;30/03/2019;2-0;Udinese;Genoa
+Chievo-Cagliari;29/03/2019;0-3;Chievo;Cagliari
+AC Milan-Inter;17/03/2019;02-mar;AC Milan;Inter
+Atalanta-Chievo;17/03/2019;01-gen;Atalanta;Chievo
+Empoli-Frosinone;17/03/2019;02-gen;Empoli;Frosinone
+Genoa-Juventus;17/03/2019;2-0;Genoa;Juventus
+Lazio-Parma;17/03/2019;04-gen;Lazio;Parma
+Napoli-Udinese;17/03/2019;04-feb;Napoli;Udinese
+Sassuolo-Sampdoria;16/03/2019;03-mag;Sassuolo;Sampdoria
+Spal-AS Roma;16/03/2019;02-gen;Spal;AS Roma
+Torino-Bologna;16/03/2019;02-mar;Torino;Bologna
+Cagliari-Fiorentina;15/03/2019;02-gen;Cagliari;Fiorentina
+AS Roma-Empoli;11/03/2019;02-gen;AS Roma;Empoli
+Bologna-Cagliari;10/03/2019;2-0;Bologna;Cagliari
+Fiorentina-Lazio;10/03/2019;01-gen;Fiorentina;Lazio
+Frosinone-Torino;10/03/2019;01-feb;Frosinone;Torino
+Inter-Spal;10/03/2019;2-0;Inter;Spal
+Sampdoria-Atalanta;10/03/2019;01-feb;Sampdoria;Atalanta
+Sassuolo-Napoli;10/03/2019;01-gen;Sassuolo;Napoli
+Chievo-AC Milan;09/03/2019;01-feb;Chievo;AC Milan
+Parma-Genoa;09/03/2019;1-0;Parma;Genoa
+Juventus-Udinese;08/03/2019;04-gen;Juventus;Udinese
+Atalanta-Fiorentina;03/03/2019;03-gen;Atalanta;Fiorentina
+Genoa-Frosinone;03/03/2019;0-0;Genoa;Frosinone
+Napoli-Juventus;03/03/2019;01-feb;Napoli;Juventus
+Spal-Sampdoria;03/03/2019;01-feb;Spal;Sampdoria
+Torino-Chievo;03/03/2019;3-0;Torino;Chievo
+Udinese-Bologna;03/03/2019;02-gen;Udinese;Bologna
+AC Milan-Sassuolo;02/03/2019;1-0;AC Milan;Sassuolo
+Empoli-Parma;02/03/2019;03-mar;Empoli;Parma
+Lazio-AS Roma;02/03/2019;3-0;Lazio;AS Roma
+Cagliari-Inter;01/03/2019;02-gen;Cagliari;Inter
+Bologna-Juventus;24/02/2019;0-1;Bologna;Juventus
+Chievo-Genoa;24/02/2019;0-0;Chievo;Genoa
+Fiorentina-Inter;24/02/2019;03-mar;Fiorentina;Inter
+Parma-Napoli;24/02/2019;0-4;Parma;Napoli
+Sampdoria-Cagliari;24/02/2019;1-0;Sampdoria;Cagliari
+Sassuolo-Spal;24/02/2019;01-gen;Sassuolo;Spal
+Frosinone-AS Roma;23/02/2019;02-mar;Frosinone;AS Roma
+Torino-Atalanta;23/02/2019;2-0;Torino;Atalanta
+AC Milan-Empoli;22/02/2019;3-0;AC Milan;Empoli
+AS Roma-Bologna;18/02/2019;02-gen;AS Roma;Bologna
+Empoli-Sassuolo;17/02/2019;3-0;Empoli;Sassuolo
+Genoa-Lazio;17/02/2019;02-gen;Genoa;Lazio
+Inter-Sampdoria;17/02/2019;02-gen;Inter;Sampdoria
+Napoli-Torino;17/02/2019;0-0;Napoli;Torino
+Spal-Fiorentina;17/02/2019;01-apr;Spal;Fiorentina
+Udinese-Chievo;17/02/2019;1-0;Udinese;Chievo
+Atalanta-AC Milan;16/02/2019;01-mar;Atalanta;AC Milan
+Cagliari-Parma;16/02/2019;02-gen;Cagliari;Parma
+Juventus-Frosinone;15/02/2019;3-0;Juventus;Frosinone
+AC Milan-Cagliari;10/02/2019;3-0;AC Milan;Cagliari
+Atalanta-Spal;10/02/2019;02-gen;Atalanta;Spal
+Bologna-Genoa;10/02/2019;01-gen;Bologna;Genoa
+Sampdoria-Frosinone;10/02/2019;0-1;Sampdoria;Frosinone
+Sassuolo-Juventus;10/02/2019;0-3;Sassuolo;Juventus
+Torino-Udinese;10/02/2019;1-0;Torino;Udinese
+Fiorentina-Napoli;09/02/2019;0-0;Fiorentina;Napoli
+Parma-Inter;09/02/2019;0-1;Parma;Inter
+Chievo-AS Roma;08/02/2019;0-3;Chievo;AS Roma
+Lazio-Empoli;07/02/2019;1-0;Lazio;Empoli
+Cagliari-Atalanta;04/02/2019;0-1;Cagliari;Atalanta
+Frosinone-Lazio;04/02/2019;0-1;Frosinone;Lazio
+AS Roma-AC Milan;03/02/2019;01-gen;AS Roma;AC Milan
+Genoa-Sassuolo;03/02/2019;01-gen;Genoa;Sassuolo
+Inter-Bologna;03/02/2019;0-1;Inter;Bologna
+Spal-Torino;03/02/2019;0-0;Spal;Torino
+Udinese-Fiorentina;03/02/2019;01-gen;Udinese;Fiorentina
+Empoli-Chievo;02/02/2019;02-feb;Empoli;Chievo
+Juventus-Parma;02/02/2019;03-mar;Juventus;Parma
+Napoli-Sampdoria;02/02/2019;3-0;Napoli;Sampdoria
+Empoli-Genoa;28/01/2019;01-mar;Empoli;Genoa
+Atalanta-AS Roma;27/01/2019;03-mar;Atalanta;AS Roma
+Bologna-Frosinone;27/01/2019;0-4;Bologna;Frosinone
+Chievo-Fiorentina;27/01/2019;03-apr;Chievo;Fiorentina
+Lazio-Juventus;27/01/2019;01-feb;Lazio;Juventus
+Parma-Spal;27/01/2019;02-mar;Parma;Spal
+Torino-Inter;27/01/2019;1-0;Torino;Inter
+AC Milan-Napoli;26/01/2019;0-0;AC Milan;Napoli
+Sampdoria-Udinese;26/01/2019;4-0;Sampdoria;Udinese
+Sassuolo-Cagliari;26/01/2019;3-0;Sassuolo;Cagliari
+Genoa-AC Milan;21/01/2019;0-2;Genoa;AC Milan
+Juventus-Chievo;21/01/2019;3-0;Juventus;Chievo
+Cagliari-Empoli;20/01/2019;02-feb;Cagliari;Empoli
+Fiorentina-Sampdoria;20/01/2019;03-mar;Fiorentina;Sampdoria
+Frosinone-Atalanta;20/01/2019;0-5;Frosinone;Atalanta
+Napoli-Lazio;20/01/2019;02-gen;Napoli;Lazio
+Spal-Bologna;20/01/2019;01-gen;Spal;Bologna
+AS Roma-Torino;19/01/2019;03-feb;AS Roma;Torino
+Inter-Sassuolo;19/01/2019;0-0;Inter;Sassuolo
+Udinese-Parma;19/01/2019;01-feb;Udinese;Parma
+AC Milan-Spal;29/12/2018;02-gen;AC Milan;Spal
+Chievo-Frosinone;29/12/2018;1-0;Chievo;Frosinone
+Empoli-Inter;29/12/2018;0-1;Empoli;Inter
+Genoa-Fiorentina;29/12/2018;0-0;Genoa;Fiorentina
+Juventus-Sampdoria;29/12/2018;02-gen;Juventus;Sampdoria
+Lazio-Torino;29/12/2018;01-gen;Lazio;Torino
+Napoli-Bologna;29/12/2018;03-feb;Napoli;Bologna
+Parma-AS Roma;29/12/2018;0-2;Parma;AS Roma
+Sassuolo-Atalanta;29/12/2018;02-giu;Sassuolo;Atalanta
+Udinese-Cagliari;29/12/2018;2-0;Udinese;Cagliari
+AS Roma-Sassuolo;26/12/2018;03-gen;AS Roma;Sassuolo
+Atalanta-Juventus;26/12/2018;02-feb;Atalanta;Juventus
+Bologna-Lazio;26/12/2018;0-2;Bologna;Lazio
+Cagliari-Genoa;26/12/2018;1-0;Cagliari;Genoa
+Fiorentina-Parma;26/12/2018;0-1;Fiorentina;Parma
+Frosinone-AC Milan;26/12/2018;0-0;Frosinone;AC Milan
+Inter-Napoli;26/12/2018;1-0;Inter;Napoli
+Sampdoria-Chievo;26/12/2018;2-0;Sampdoria;Chievo
+Spal-Udinese;26/12/2018;0-0;Spal;Udinese
+Torino-Empoli;26/12/2018;3-0;Torino;Empoli
+AC Milan-Fiorentina;22/12/2018;0-1;AC Milan;Fiorentina
+Chievo-Inter;22/12/2018;01-gen;Chievo;Inter
+Empoli-Sampdoria;22/12/2018;02-apr;Empoli;Sampdoria
+Genoa-Atalanta;22/12/2018;03-gen;Genoa;Atalanta
+Juventus-AS Roma;22/12/2018;1-0;Juventus;AS Roma
+Lazio-Cagliari;22/12/2018;03-gen;Lazio;Cagliari
+Napoli-Spal;22/12/2018;1-0;Napoli;Spal
+Parma-Bologna;22/12/2018;0-0;Parma;Bologna
+Sassuolo-Torino;22/12/2018;01-gen;Sassuolo;Torino
+Udinese-Frosinone;22/12/2018;01-gen;Udinese;Frosinone
+Bologna-AC Milan;18/12/2018;0-0;Bologna;AC Milan
+Atalanta-Lazio;17/12/2018;1-0;Atalanta;Lazio
+AS Roma-Genoa;16/12/2018;03-feb;AS Roma;Genoa
+Cagliari-Napoli;16/12/2018;0-1;Cagliari;Napoli
+Fiorentina-Empoli;16/12/2018;03-gen;Fiorentina;Empoli
+Frosinone-Sassuolo;16/12/2018;0-2;Frosinone;Sassuolo
+Sampdoria-Parma;16/12/2018;2-0;Sampdoria;Parma
+Spal-Chievo;16/12/2018;0-0;Spal;Chievo
+Inter-Udinese;15/12/2018;1-0;Inter;Udinese
+Torino-Juventus;15/12/2018;0-1;Torino;Juventus
+AC Milan-Torino;09/12/2018;0-0;AC Milan;Torino
+Empoli-Bologna;09/12/2018;02-gen;Empoli;Bologna
+Genoa-Spal;09/12/2018;01-gen;Genoa;Spal
+Parma-Chievo;09/12/2018;01-gen;Parma;Chievo
+Sassuolo-Fiorentina;09/12/2018;03-mar;Sassuolo;Fiorentina
+Udinese-Atalanta;09/12/2018;01-mar;Udinese;Atalanta
+Cagliari-AS Roma;08/12/2018;02-feb;Cagliari;AS Roma
+Lazio-Sampdoria;08/12/2018;02-feb;Lazio;Sampdoria
+Napoli-Frosinone;08/12/2018;4-0;Napoli;Frosinone
+Juventus-Inter;07/12/2018;1-0;Juventus;Inter
+Atalanta-Napoli;03/12/2018;01-feb;Atalanta;Napoli
+AC Milan-Parma;02/12/2018;02-gen;AC Milan;Parma
+AS Roma-Inter;02/12/2018;02-feb;AS Roma;Inter
+Chievo-Lazio;02/12/2018;01-gen;Chievo;Lazio
+Frosinone-Cagliari;02/12/2018;01-gen;Frosinone;Cagliari
+Sassuolo-Udinese;02/12/2018;0-0;Sassuolo;Udinese
+Torino-Genoa;02/12/2018;02-gen;Torino;Genoa
+Fiorentina-Juventus;01/12/2018;0-3;Fiorentina;Juventus
+Sampdoria-Bologna;01/12/2018;04-gen;Sampdoria;Bologna
+Spal-Empoli;01/12/2018;02-feb;Spal;Empoli
+Cagliari-Torino;26/11/2018;0-0;Cagliari;Torino
+Bologna-Fiorentina;25/11/2018;0-0;Bologna;Fiorentina
+Empoli-Atalanta;25/11/2018;03-feb;Empoli;Atalanta
+Genoa-Sampdoria;25/11/2018;01-gen;Genoa;Sampdoria
+Lazio-AC Milan;25/11/2018;01-gen;Lazio;AC Milan
+Napoli-Chievo;25/11/2018;0-0;Napoli;Chievo
+Parma-Sassuolo;25/11/2018;02-gen;Parma;Sassuolo
+Inter-Frosinone;24/11/2018;3-0;Inter;Frosinone
+Juventus-Spal;24/11/2018;2-0;Juventus;Spal
+Udinese-AS Roma;24/11/2018;1-0;Udinese;AS Roma
+AC Milan-Juventus;11/11/2018;0-2;AC Milan;Juventus
+AS Roma-Sampdoria;11/11/2018;04-gen;AS Roma;Sampdoria
+Atalanta-Inter;11/11/2018;04-gen;Atalanta;Inter
+Chievo-Bologna;11/11/2018;02-feb;Chievo;Bologna
+Empoli-Udinese;11/11/2018;02-gen;Empoli;Udinese
+Sassuolo-Lazio;11/11/2018;01-gen;Sassuolo;Lazio
+Genoa-Napoli;10/11/2018;01-feb;Genoa;Napoli
+Spal-Cagliari;10/11/2018;02-feb;Spal;Cagliari
+Torino-Parma;10/11/2018;01-feb;Torino;Parma
+Frosinone-Fiorentina;09/11/2018;01-gen;Frosinone;Fiorentina
+Bologna-Atalanta;04/11/2018;01-feb;Bologna;Atalanta
+Chievo-Sassuolo;04/11/2018;0-2;Chievo;Sassuolo
+Lazio-Spal;04/11/2018;04-gen;Lazio;Spal
+Parma-Frosinone;04/11/2018;0-0;Parma;Frosinone
+Sampdoria-Torino;04/11/2018;01-apr;Sampdoria;Torino
+Udinese-AC Milan;04/11/2018;0-1;Udinese;AC Milan
+Fiorentina-AS Roma;03/11/2018;01-gen;Fiorentina;AS Roma
+Inter-Genoa;03/11/2018;5-0;Inter;Genoa
+Juventus-Cagliari;03/11/2018;03-gen;Juventus;Cagliari
+Napoli-Empoli;02/11/2018;05-gen;Napoli;Empoli
+AC Milan-Genoa;31/10/2018;02-gen;AC Milan;Genoa
+Lazio-Inter;29/10/2018;0-3;Lazio;Inter
+AC Milan-Sampdoria;28/10/2018;03-feb;AC Milan;Sampdoria
+Cagliari-Chievo;28/10/2018;02-gen;Cagliari;Chievo
+Genoa-Udinese;28/10/2018;02-feb;Genoa;Udinese
+Napoli-AS Roma;28/10/2018;01-gen;Napoli;AS Roma
+Sassuolo-Bologna;28/10/2018;02-feb;Sassuolo;Bologna
+Spal-Frosinone;28/10/2018;0-3;Spal;Frosinone
+Atalanta-Parma;27/10/2018;3-0;Atalanta;Parma
+Empoli-Juventus;27/10/2018;01-feb;Empoli;Juventus
+Torino-Fiorentina;27/10/2018;01-gen;Torino;Fiorentina
+Sampdoria-Sassuolo;22/10/2018;0-0;Sampdoria;Sassuolo
+Bologna-Torino;21/10/2018;02-feb;Bologna;Torino
+Chievo-Atalanta;21/10/2018;01-mag;Chievo;Atalanta
+Fiorentina-Cagliari;21/10/2018;01-gen;Fiorentina;Cagliari
+Frosinone-Empoli;21/10/2018;03-mar;Frosinone;Empoli
+Inter-AC Milan;21/10/2018;1-0;Inter;AC Milan
+Parma-Lazio;21/10/2018;0-2;Parma;Lazio
+AS Roma-Spal;20/10/2018;0-2;AS Roma;Spal
+Juventus-Genoa;20/10/2018;01-gen;Juventus;Genoa
+Udinese-Napoli;20/10/2018;0-3;Udinese;Napoli
+AC Milan-Chievo;07/10/2018;03-gen;AC Milan;Chievo
+Atalanta-Sampdoria;07/10/2018;0-1;Atalanta;Sampdoria
+Genoa-Parma;07/10/2018;01-mar;Genoa;Parma
+Lazio-Fiorentina;07/10/2018;1-0;Lazio;Fiorentina
+Napoli-Sassuolo;07/10/2018;2-0;Napoli;Sassuolo
+Spal-Inter;07/10/2018;01-feb;Spal;Inter
+Cagliari-Bologna;06/10/2018;2-0;Cagliari;Bologna
+Empoli-AS Roma;06/10/2018;0-2;Empoli;AS Roma
+Udinese-Juventus;06/10/2018;0-2;Udinese;Juventus
+Torino-Frosinone;05/10/2018;03-feb;Torino;Frosinone
+Sampdoria-Spal;01/10/2018;02-gen;Sampdoria;Spal
+Bologna-Udinese;30/09/2018;02-gen;Bologna;Udinese
+Chievo-Torino;30/09/2018;0-1;Chievo;Torino
+Fiorentina-Atalanta;30/09/2018;2-0;Fiorentina;Atalanta
+Frosinone-Genoa;30/09/2018;01-feb;Frosinone;Genoa
+Parma-Empoli;30/09/2018;1-0;Parma;Empoli
+Sassuolo-AC Milan;30/09/2018;01-apr;Sassuolo;AC Milan
+AS Roma-Lazio;29/09/2018;03-gen;AS Roma;Lazio
+Inter-Cagliari;29/09/2018;2-0;Inter;Cagliari
+Juventus-Napoli;29/09/2018;03-gen;Juventus;Napoli
+Empoli-AC Milan;27/09/2018;01-gen;Empoli;AC Milan
+Spal-Sassuolo;27/09/2018;0-2;Spal;Sassuolo
+AS Roma-Frosinone;26/09/2018;4-0;AS Roma;Frosinone
+Atalanta-Torino;26/09/2018;0-0;Atalanta;Torino
+Cagliari-Sampdoria;26/09/2018;0-0;Cagliari;Sampdoria
+Genoa-Chievo;26/09/2018;2-0;Genoa;Chievo
+Juventus-Bologna;26/09/2018;2-0;Juventus;Bologna
+Napoli-Parma;26/09/2018;3-0;Napoli;Parma
+Udinese-Lazio;26/09/2018;01-feb;Udinese;Lazio
+Inter-Fiorentina;25/09/2018;02-gen;Inter;Fiorentina
+AC Milan-Atalanta;23/09/2018;02-feb;AC Milan;Atalanta
+Bologna-AS Roma;23/09/2018;2-0;Bologna;AS Roma
+Chievo-Udinese;23/09/2018;0-2;Chievo;Udinese
+Frosinone-Juventus;23/09/2018;0-2;Frosinone;Juventus
+Lazio-Genoa;23/09/2018;04-gen;Lazio;Genoa
+Torino-Napoli;23/09/2018;01-mar;Torino;Napoli
+Fiorentina-Spal;22/09/2018;3-0;Fiorentina;Spal
+Parma-Cagliari;22/09/2018;2-0;Parma;Cagliari
+Sampdoria-Inter;22/09/2018;0-1;Sampdoria;Inter
+Sassuolo-Empoli;21/09/2018;03-gen;Sassuolo;Empoli
+Sampdoria-Fiorentina;19/09/2018;01-gen;Sampdoria;Fiorentina
+Spal-Atalanta;17/09/2018;2-0;Spal;Atalanta
+AS Roma-Chievo;16/09/2018;02-feb;AS Roma;Chievo
+Cagliari-AC Milan;16/09/2018;01-gen;Cagliari;AC Milan
+Empoli-Lazio;16/09/2018;0-1;Empoli;Lazio
+Genoa-Bologna;16/09/2018;1-0;Genoa;Bologna
+Juventus-Sassuolo;16/09/2018;02-gen;Juventus;Sassuolo
+Udinese-Torino;16/09/2018;01-gen;Udinese;Torino
+Frosinone-Sampdoria;15/09/2018;0-5;Frosinone;Sampdoria
+Inter-Parma;15/09/2018;0-1;Inter;Parma
+Napoli-Fiorentina;15/09/2018;1-0;Napoli;Fiorentina
+Atalanta-Cagliari;02/09/2018;0-1;Atalanta;Cagliari
+Chievo-Empoli;02/09/2018;0-0;Chievo;Empoli
+Fiorentina-Udinese;02/09/2018;1-0;Fiorentina;Udinese
+Lazio-Frosinone;02/09/2018;1-0;Lazio;Frosinone
+Sampdoria-Napoli;02/09/2018;3-0;Sampdoria;Napoli
+Sassuolo-Genoa;02/09/2018;05-mar;Sassuolo;Genoa
+Torino-Spal;02/09/2018;1-0;Torino;Spal
+Bologna-Inter;01/09/2018;0-3;Bologna;Inter
+Parma-Juventus;01/09/2018;01-feb;Parma;Juventus
+AC Milan-AS Roma;31/08/2018;02-gen;AC Milan;AS Roma
+AS Roma-Atalanta;27/08/2018;03-mar;AS Roma;Atalanta
+Cagliari-Sassuolo;26/08/2018;02-feb;Cagliari;Sassuolo
+Fiorentina-Chievo;26/08/2018;06-gen;Fiorentina;Chievo
+Frosinone-Bologna;26/08/2018;0-0;Frosinone;Bologna
+Genoa-Empoli;26/08/2018;02-gen;Genoa;Empoli
+Inter-Torino;26/08/2018;02-feb;Inter;Torino
+Spal-Parma;26/08/2018;1-0;Spal;Parma
+Udinese-Sampdoria;26/08/2018;1-0;Udinese;Sampdoria
+Juventus-Lazio;25/08/2018;2-0;Juventus;Lazio
+Napoli-AC Milan;25/08/2018;03-feb;Napoli;AC Milan
+Atalanta-Frosinone;20/08/2018;4-0;Atalanta;Frosinone
+Bologna-Spal;19/08/2018;0-1;Bologna;Spal
+Empoli-Cagliari;19/08/2018;2-0;Empoli;Cagliari
+Parma-Udinese;19/08/2018;02-feb;Parma;Udinese
+Sassuolo-Inter;19/08/2018;1-0;Sassuolo;Inter
+Torino-AS Roma;19/08/2018;0-1;Torino;AS Roma
+Chievo-Juventus;18/08/2018;02-mar;Chievo;Juventus
+Lazio-Napoli;18/08/2018;01-feb;Lazio;Napoli

@@ -1,0 +1,381 @@
+match;date;result;Home_team;Away_team
+Verona-Frosinone;17/04/2016;01-feb;Verona;Frosinone
+Napoli-Bologna;19/04/2016;6-0;Napoli;Bologna
+Palermo-Genoa;23/08/2015;1-0;Palermo;Genoa
+Inter-Empoli;07/05/2016;02-gen;Inter;Empoli
+Chievo-AC Milan;13/03/2016;0-0;Chievo;AC Milan
+Juventus-Sassuolo;11/03/2016;1-0;Juventus;Sassuolo
+Atalanta-Fiorentina;21/02/2016;02-mar;Atalanta;Fiorentina
+Empoli-Verona;20/04/2016;1-0;Empoli;Verona
+AC Milan-Inter;31/01/2016;3-0;AC Milan;Inter
+Udinese-Genoa;04/10/2015;01-gen;Udinese;Genoa
+Bologna-Torino;16/04/2016;0-1;Bologna;Torino
+Verona-Napoli;22/11/2015;0-2;Verona;Napoli
+Torino-Lazio;06/03/2016;01-gen;Torino;Lazio
+Palermo-Empoli;02/11/2015;0-1;Palermo;Empoli
+Sampdoria-Empoli;29/10/2015;01-gen;Sampdoria;Empoli
+AC Milan-Sassuolo;25/10/2015;02-gen;AC Milan;Sassuolo
+Sampdoria-Frosinone;28/02/2016;2-0;Sampdoria;Frosinone
+Carpi-Torino;03/10/2015;02-gen;Carpi;Torino
+AS Roma-Bologna;11/04/2016;01-gen;AS Roma;Bologna
+Fiorentina-Torino;24/01/2016;2-0;Fiorentina;Torino
+Inter-Chievo;03/02/2016;1-0;Inter;Chievo
+Carpi-Chievo;22/11/2015;01-feb;Carpi;Chievo
+Palermo-Bologna;28/02/2016;0-0;Palermo;Bologna
+Lazio-Torino;25/10/2015;3-0;Lazio;Torino
+Fiorentina-Genoa;12/09/2015;1-0;Fiorentina;Genoa
+Carpi-Sampdoria;17/01/2016;02-gen;Carpi;Sampdoria
+Frosinone-Sampdoria;18/10/2015;2-0;Frosinone;Sampdoria
+Inter-Bologna;12/03/2016;02-gen;Inter;Bologna
+Genoa-Fiorentina;31/01/2016;0-0;Genoa;Fiorentina
+AC Milan-Verona;13/12/2015;01-gen;AC Milan;Verona
+Empoli-Napoli;13/09/2015;02-feb;Empoli;Napoli
+Frosinone-Sassuolo;08/05/2016;0-1;Frosinone;Sassuolo
+Sassuolo-Verona;01/05/2016;1-0;Sassuolo;Verona
+Juventus-Napoli;13/02/2016;1-0;Juventus;Napoli
+Fiorentina-Bologna;23/09/2015;2-0;Fiorentina;Bologna
+Frosinone-Napoli;10/01/2016;01-mag;Frosinone;Napoli
+Verona-Genoa;24/01/2016;01-gen;Verona;Genoa
+AC Milan-Torino;27/02/2016;1-0;AC Milan;Torino
+Sassuolo-Frosinone;06/01/2016;02-feb;Sassuolo;Frosinone
+Atalanta-Torino;22/11/2015;0-1;Atalanta;Torino
+Chievo-Sassuolo;13/02/2016;01-gen;Chievo;Sassuolo
+Sassuolo-Udinese;20/03/2016;01-gen;Sassuolo;Udinese
+Chievo-Palermo;03/04/2016;03-gen;Chievo;Palermo
+Lazio-Fiorentina;15/05/2016;02-apr;Lazio;Fiorentina
+Carpi-Sassuolo;02/04/2016;01-mar;Carpi;Sassuolo
+Fiorentina-Lazio;09/01/2016;01-mar;Fiorentina;Lazio
+Juventus-Genoa;03/02/2016;1-0;Juventus;Genoa
+Bologna-Carpi;06/03/2016;0-0;Bologna;Carpi
+Palermo-Sampdoria;01/05/2016;2-0;Palermo;Sampdoria
+AC Milan-Chievo;28/10/2015;1-0;AC Milan;Chievo
+Juventus-Carpi;01/05/2016;2-0;Juventus;Carpi
+Bologna-Inter;27/10/2015;0-1;Bologna;Inter
+Sampdoria-Verona;25/10/2015;04-gen;Sampdoria;Verona
+Carpi-Genoa;16/04/2016;04-gen;Carpi;Genoa
+Bologna-Sassuolo;29/08/2015;0-1;Bologna;Sassuolo
+Atalanta-Inter;16/01/2016;01-gen;Atalanta;Inter
+Sampdoria-Carpi;23/08/2015;05-feb;Sampdoria;Carpi
+Juventus-Lazio;20/04/2016;3-0;Juventus;Lazio
+Empoli-Lazio;29/11/2015;1-0;Empoli;Lazio
+Napoli-Sampdoria;30/08/2015;02-feb;Napoli;Sampdoria
+Atalanta-Bologna;20/03/2016;2-0;Atalanta;Bologna
+Torino-Napoli;08/05/2016;01-feb;Torino;Napoli
+Atalanta-Genoa;10/01/2016;0-2;Atalanta;Genoa
+Napoli-Sassuolo;16/01/2016;03-gen;Napoli;Sassuolo
+Bologna-Chievo;10/01/2016;0-1;Bologna;Chievo
+Napoli-AC Milan;22/02/2016;01-gen;Napoli;AC Milan
+Bologna-Fiorentina;06/02/2016;01-gen;Bologna;Fiorentina
+Frosinone-Atalanta;23/01/2016;0-0;Frosinone;Atalanta
+Torino-Palermo;27/09/2015;02-gen;Torino;Palermo
+Udinese-Lazio;31/01/2016;0-0;Udinese;Lazio
+Palermo-Napoli;13/03/2016;0-1;Palermo;Napoli
+Chievo-Udinese;29/11/2015;02-mar;Chievo;Udinese
+Genoa-Inter;20/04/2016;1-0;Genoa;Inter
+Atalanta-Napoli;20/12/2015;01-mar;Atalanta;Napoli
+Chievo-Bologna;15/05/2016;0-0;Chievo;Bologna
+Napoli-Inter;30/11/2015;02-gen;Napoli;Inter
+Juventus-AS Roma;24/01/2016;1-0;Juventus;AS Roma
+Chievo-Juventus;31/01/2016;0-4;Chievo;Juventus
+Sampdoria-Inter;04/10/2015;01-gen;Sampdoria;Inter
+Genoa-Chievo;18/10/2015;03-feb;Genoa;Chievo
+Verona-Palermo;10/01/2016;0-1;Verona;Palermo
+Sampdoria-Torino;03/02/2016;02-feb;Sampdoria;Torino
+Bologna-Juventus;19/02/2016;0-0;Bologna;Juventus
+Atalanta-Empoli;07/02/2016;0-0;Atalanta;Empoli
+Verona-Bologna;07/11/2015;0-2;Verona;Bologna
+Udinese-AS Roma;13/03/2016;01-feb;Udinese;AS Roma
+Atalanta-AC Milan;03/04/2016;02-gen;Atalanta;AC Milan
+Torino-Empoli;10/01/2016;0-1;Torino;Empoli
+Verona-Torino;13/09/2015;02-feb;Verona;Torino
+Genoa-Verona;30/08/2015;2-0;Genoa;Verona
+Napoli-Fiorentina;18/10/2015;02-gen;Napoli;Fiorentina
+AS Roma-Fiorentina;04/03/2016;04-gen;AS Roma;Fiorentina
+Atalanta-Sampdoria;28/09/2015;02-gen;Atalanta;Sampdoria
+Fiorentina-Palermo;08/05/2016;0-0;Fiorentina;Palermo
+Napoli-Empoli;31/01/2016;05-gen;Napoli;Empoli
+Palermo-Lazio;10/04/2016;0-3;Palermo;Lazio
+Chievo-Carpi;09/04/2016;1-0;Chievo;Carpi
+Sampdoria-AS Roma;23/09/2015;02-gen;Sampdoria;AS Roma
+Sampdoria-Palermo;20/12/2015;2-0;Sampdoria;Palermo
+AS Roma-Lazio;08/11/2015;2-0;AS Roma;Lazio
+Atalanta-Udinese;08/05/2016;01-gen;Atalanta;Udinese
+Napoli-Chievo;05/03/2016;03-gen;Napoli;Chievo
+Sassuolo-Genoa;09/04/2016;0-1;Sassuolo;Genoa
+Juventus-Sampdoria;14/05/2016;5-0;Juventus;Sampdoria
+Sassuolo-AS Roma;02/02/2016;0-2;Sassuolo;AS Roma
+Empoli-Atalanta;24/09/2015;0-1;Empoli;Atalanta
+Frosinone-AS Roma;12/09/2015;0-2;Frosinone;AS Roma
+Lazio-Juventus;04/12/2015;0-2;Lazio;Juventus
+Frosinone-Bologna;03/02/2016;1-0;Frosinone;Bologna
+AS Roma-Carpi;26/09/2015;05-gen;AS Roma;Carpi
+AS Roma-Udinese;28/10/2015;03-gen;AS Roma;Udinese
+Inter-Torino;03/04/2016;01-feb;Inter;Torino
+Udinese-Inter;12/12/2015;0-4;Udinese;Inter
+Genoa-Carpi;29/11/2015;01-feb;Genoa;Carpi
+Fiorentina-Atalanta;04/10/2015;3-0;Fiorentina;Atalanta
+Verona-Atalanta;03/02/2016;02-gen;Verona;Atalanta
+Genoa-AS Roma;02/05/2016;02-mar;Genoa;AS Roma
+Palermo-Fiorentina;06/01/2016;01-mar;Palermo;Fiorentina
+Bologna-Lazio;17/01/2016;02-feb;Bologna;Lazio
+Verona-Lazio;27/09/2015;01-feb;Verona;Lazio
+AC Milan-Juventus;09/04/2016;01-feb;AC Milan;Juventus
+Bologna-Palermo;18/10/2015;0-1;Bologna;Palermo
+Sassuolo-Empoli;21/02/2016;03-feb;Sassuolo;Empoli
+Juventus-Fiorentina;13/12/2015;03-gen;Juventus;Fiorentina
+AC Milan-Frosinone;01/05/2016;03-mar;AC Milan;Frosinone
+Verona-Chievo;20/02/2016;03-gen;Verona;Chievo
+Carpi-Udinese;09/01/2016;02-gen;Carpi;Udinese
+Sassuolo-Napoli;23/08/2015;02-gen;Sassuolo;Napoli
+Fiorentina-Sampdoria;03/04/2016;01-gen;Fiorentina;Sampdoria
+Fiorentina-Frosinone;01/11/2015;04-gen;Fiorentina;Frosinone
+Juventus-Empoli;02/04/2016;1-0;Juventus;Empoli
+Napoli-Frosinone;14/05/2016;4-0;Napoli;Frosinone
+Torino-Sassuolo;24/04/2016;01-mar;Torino;Sassuolo
+Carpi-Bologna;24/10/2015;01-feb;Carpi;Bologna
+Sassuolo-Bologna;24/01/2016;0-2;Sassuolo;Bologna
+Fiorentina-AS Roma;25/10/2015;01-feb;Fiorentina;AS Roma
+Udinese-Empoli;19/09/2015;01-feb;Udinese;Empoli
+AS Roma-Juventus;30/08/2015;02-gen;AS Roma;Juventus
+Bologna-Udinese;27/09/2015;01-feb;Bologna;Udinese
+Torino-Verona;31/01/2016;0-0;Torino;Verona
+Empoli-Fiorentina;10/04/2016;2-0;Empoli;Fiorentina
+Udinese-Atalanta;06/01/2016;02-gen;Udinese;Atalanta
+Empoli-Sassuolo;04/10/2015;1-0;Empoli;Sassuolo
+Bologna-Sampdoria;31/01/2016;03-feb;Bologna;Sampdoria
+Verona-Carpi;20/03/2016;01-feb;Verona;Carpi
+Palermo-Verona;15/05/2016;03-feb;Palermo;Verona
+Sampdoria-Fiorentina;08/11/2015;0-2;Sampdoria;Fiorentina
+Atalanta-Chievo;24/04/2016;1-0;Atalanta;Chievo
+Atalanta-Carpi;18/10/2015;3-0;Atalanta;Carpi
+Palermo-Udinese;24/01/2016;04-gen;Palermo;Udinese
+Udinese-Carpi;15/05/2016;01-feb;Udinese;Carpi
+AS Roma-AC Milan;09/01/2016;01-gen;AS Roma;AC Milan
+Sassuolo-Atalanta;13/09/2015;02-feb;Sassuolo;Atalanta
+Frosinone-Fiorentina;20/03/2016;0-0;Frosinone;Fiorentina
+Lazio-Sassuolo;29/02/2016;0-2;Lazio;Sassuolo
+Carpi-Palermo;30/01/2016;01-gen;Carpi;Palermo
+AS Roma-Empoli;17/10/2015;03-gen;AS Roma;Empoli
+Lazio-Chievo;24/01/2016;04-gen;Lazio;Chievo
+Udinese-Torino;30/04/2016;01-mag;Udinese;Torino
+Sampdoria-Juventus;10/01/2016;01-feb;Sampdoria;Juventus
+AS Roma-Genoa;20/12/2015;2-0;AS Roma;Genoa
+Torino-Carpi;21/02/2016;0-0;Torino;Carpi
+Inter-AS Roma;31/10/2015;1-0;Inter;AS Roma
+Lazio-Inter;01/05/2016;2-0;Lazio;Inter
+Sampdoria-Sassuolo;06/12/2015;01-mar;Sampdoria;Sassuolo
+Empoli-Genoa;24/10/2015;2-0;Empoli;Genoa
+Juventus-AC Milan;21/11/2015;1-0;Juventus;AC Milan
+Lazio-AC Milan;01/11/2015;01-mar;Lazio;AC Milan
+Fiorentina-Sassuolo;17/04/2016;03-gen;Fiorentina;Sassuolo
+Frosinone-Genoa;08/11/2015;02-feb;Frosinone;Genoa
+Juventus-Palermo;17/04/2016;4-0;Juventus;Palermo
+Empoli-Chievo;23/08/2015;01-mar;Empoli;Chievo
+Juventus-Frosinone;23/09/2015;01-gen;Juventus;Frosinone
+Napoli-AS Roma;13/12/2015;0-0;Napoli;AS Roma
+Frosinone-Carpi;28/10/2015;02-gen;Frosinone;Carpi
+Napoli-Udinese;08/11/2015;1-0;Napoli;Udinese
+Lazio-AS Roma;03/04/2016;01-apr;Lazio;AS Roma
+Frosinone-Lazio;21/02/2016;0-0;Frosinone;Lazio
+Carpi-Napoli;23/09/2015;0-0;Carpi;Napoli
+Genoa-Udinese;21/02/2016;02-gen;Genoa;Udinese
+AS Roma-Sampdoria;07/02/2016;02-gen;AS Roma;Sampdoria
+Chievo-Napoli;25/10/2015;0-1;Chievo;Napoli
+Torino-Frosinone;16/01/2016;04-feb;Torino;Frosinone
+Frosinone-AC Milan;20/12/2015;02-apr;Frosinone;AC Milan
+Chievo-Fiorentina;30/04/2016;0-0;Chievo;Fiorentina
+Sassuolo-Torino;20/01/2016;01-gen;Sassuolo;Torino
+Verona-Empoli;06/12/2015;0-1;Verona;Empoli
+Inter-Frosinone;22/11/2015;4-0;Inter;Frosinone
+AC Milan-Atalanta;07/11/2015;0-0;AC Milan;Atalanta
+Palermo-Inter;24/10/2015;01-gen;Palermo;Inter
+Udinese-Verona;28/02/2016;2-0;Udinese;Verona
+Atalanta-Lazio;28/10/2015;02-gen;Atalanta;Lazio
+Lazio-Sampdoria;14/12/2015;01-gen;Lazio;Sampdoria
+Frosinone-Inter;09/04/2016;0-1;Frosinone;Inter
+Fiorentina-Empoli;22/11/2015;02-feb;Fiorentina;Empoli
+Genoa-Sampdoria;05/01/2016;02-mar;Genoa;Sampdoria
+Sampdoria-Atalanta;14/02/2016;0-0;Sampdoria;Atalanta
+Juventus-Verona;06/01/2016;3-0;Juventus;Verona
+Chievo-Atalanta;13/12/2015;1-0;Chievo;Atalanta
+Palermo-Torino;14/02/2016;01-mar;Palermo;Torino
+Sampdoria-Chievo;20/03/2016;0-1;Sampdoria;Chievo
+Empoli-Sampdoria;12/03/2016;01-gen;Empoli;Sampdoria
+Chievo-Lazio;30/08/2015;4-0;Chievo;Lazio
+AC Milan-Empoli;29/08/2015;02-gen;AC Milan;Empoli
+Chievo-Frosinone;20/04/2016;05-gen;Chievo;Frosinone
+Sassuolo-Palermo;07/02/2016;02-feb;Sassuolo;Palermo
+Genoa-Sassuolo;22/11/2015;02-gen;Genoa;Sassuolo
+Fiorentina-Chievo;20/12/2015;2-0;Fiorentina;Chievo
+Lazio-Napoli;03/02/2016;0-2;Lazio;Napoli
+Torino-Juventus;20/03/2016;01-apr;Torino;Juventus
+Empoli-Udinese;03/02/2016;01-gen;Empoli;Udinese
+Verona-Sampdoria;05/03/2016;0-3;Verona;Sampdoria
+Bologna-AS Roma;21/11/2015;02-feb;Bologna;AS Roma
+Juventus-Torino;31/10/2015;02-gen;Juventus;Torino
+Lazio-Empoli;17/04/2016;2-0;Lazio;Empoli
+Atalanta-Frosinone;30/08/2015;2-0;Atalanta;Frosinone
+Napoli-Atalanta;02/05/2016;02-gen;Napoli;Atalanta
+Verona-Inter;07/02/2016;03-mar;Verona;Inter
+Fiorentina-Inter;14/02/2016;02-gen;Fiorentina;Inter
+AS Roma-Inter;19/03/2016;01-gen;AS Roma;Inter
+Bologna-Verona;04/04/2016;0-1;Bologna;Verona
+AS Roma-Verona;17/01/2016;01-gen;AS Roma;Verona
+Carpi-Atalanta;28/02/2016;01-gen;Carpi;Atalanta
+Napoli-Juventus;26/09/2015;02-gen;Napoli;Juventus
+Inter-Palermo;06/03/2016;03-gen;Inter;Palermo
+Chievo-Sampdoria;02/11/2015;01-gen;Chievo;Sampdoria
+Atalanta-Juventus;06/03/2016;0-2;Atalanta;Juventus
+AC Milan-Napoli;04/10/2015;0-4;AC Milan;Napoli
+AS Roma-Atalanta;29/11/2015;0-2;AS Roma;Atalanta
+Udinese-Chievo;17/04/2016;0-0;Udinese;Chievo
+Empoli-AC Milan;23/01/2016;02-feb;Empoli;AC Milan
+AC Milan-Lazio;20/03/2016;01-gen;AC Milan;Lazio
+Lazio-Palermo;22/11/2015;01-gen;Lazio;Palermo
+Inter-Juventus;18/10/2015;0-0;Inter;Juventus
+Sassuolo-Juventus;28/10/2015;1-0;Sassuolo;Juventus
+Sampdoria-Napoli;24/01/2016;02-apr;Sampdoria;Napoli
+Juventus-Atalanta;25/10/2015;2-0;Juventus;Atalanta
+Atalanta-Verona;20/09/2015;01-gen;Atalanta;Verona
+Inter-Napoli;16/04/2016;2-0;Inter;Napoli
+Fiorentina-Udinese;06/12/2015;3-0;Fiorentina;Udinese
+AS Roma-Sassuolo;20/09/2015;02-feb;AS Roma;Sassuolo
+Genoa-Empoli;06/03/2016;1-0;Genoa;Empoli
+Verona-Sassuolo;20/12/2015;01-gen;Verona;Sassuolo
+Torino-Genoa;28/10/2015;03-mar;Torino;Genoa
+Torino-Bologna;28/11/2015;2-0;Torino;Bologna
+Atalanta-Sassuolo;30/01/2016;01-gen;Atalanta;Sassuolo
+Sassuolo-Chievo;27/09/2015;01-gen;Sassuolo;Chievo
+Genoa-Torino;13/03/2016;03-feb;Genoa;Torino
+Sassuolo-AC Milan;06/03/2016;2-0;Sassuolo;AC Milan
+Torino-Atalanta;10/04/2016;02-gen;Torino;Atalanta
+Fiorentina-AC Milan;23/08/2015;2-0;Fiorentina;AC Milan
+Palermo-Juventus;29/11/2015;0-3;Palermo;Juventus
+Lazio-Verona;11/02/2016;05-feb;Lazio;Verona
+Carpi-Juventus;20/12/2015;02-mar;Carpi;Juventus
+Genoa-Lazio;06/02/2016;0-0;Genoa;Lazio
+Chievo-Verona;03/10/2015;01-gen;Chievo;Verona
+Napoli-Lazio;20/09/2015;5-0;Napoli;Lazio
+Napoli-Genoa;20/03/2016;03-gen;Napoli;Genoa
+Inter-Fiorentina;27/09/2015;01-apr;Inter;Fiorentina
+Carpi-Fiorentina;20/09/2015;0-1;Carpi;Fiorentina
+Frosinone-Torino;23/08/2015;01-feb;Frosinone;Torino
+Sampdoria-AC Milan;17/04/2016;0-1;Sampdoria;AC Milan
+Carpi-Verona;01/11/2015;0-0;Carpi;Verona
+Udinese-Juventus;17/01/2016;0-4;Udinese;Juventus
+Torino-AS Roma;05/12/2015;01-gen;Torino;AS Roma
+Frosinone-Chievo;06/12/2015;0-2;Frosinone;Chievo
+Frosinone-Udinese;06/03/2016;2-0;Frosinone;Udinese
+Genoa-Atalanta;15/05/2016;01-feb;Genoa;Atalanta
+Palermo-Frosinone;12/12/2015;04-gen;Palermo;Frosinone
+Empoli-Carpi;13/12/2015;3-0;Empoli;Carpi
+Verona-Juventus;08/05/2016;02-gen;Verona;Juventus
+Carpi-Lazio;08/05/2016;01-mar;Carpi;Lazio
+Sampdoria-Genoa;08/05/2016;0-3;Sampdoria;Genoa
+AS Roma-Napoli;25/04/2016;1-0;AS Roma;Napoli
+Genoa-Juventus;20/09/2015;0-2;Genoa;Juventus
+Udinese-Sassuolo;01/11/2015;0-0;Udinese;Sassuolo
+AC Milan-AS Roma;14/05/2016;01-mar;AC Milan;AS Roma
+Inter-AC Milan;13/09/2015;1-0;Inter;AC Milan
+Torino-Chievo;07/02/2016;01-feb;Torino;Chievo
+AS Roma-Torino;20/04/2016;03-feb;AS Roma;Torino
+Chievo-Torino;23/09/2015;1-0;Chievo;Torino
+Fiorentina-Verona;13/03/2016;01-gen;Fiorentina;Verona
+Sassuolo-Carpi;08/11/2015;1-0;Sassuolo;Carpi
+Carpi-Empoli;25/04/2016;1-0;Carpi;Empoli
+Torino-Inter;08/11/2015;0-1;Torino;Inter
+Genoa-AC Milan;27/09/2015;1-0;Genoa;AC Milan
+Carpi-Frosinone;13/03/2016;02-gen;Carpi;Frosinone
+Udinese-Fiorentina;20/04/2016;02-gen;Udinese;Fiorentina
+Inter-Atalanta;23/08/2015;1-0;Inter;Atalanta
+Frosinone-Empoli;28/09/2015;2-0;Frosinone;Empoli
+Chievo-Genoa;28/02/2016;1-0;Chievo;Genoa
+Inter-Sassuolo;10/01/2016;0-1;Inter;Sassuolo
+AC Milan-Palermo;19/09/2015;03-feb;AC Milan;Palermo
+Sampdoria-Bologna;14/09/2015;2-0;Sampdoria;Bologna
+Bologna-Atalanta;01/11/2015;3-0;Bologna;Atalanta
+Juventus-Chievo;12/09/2015;01-gen;Juventus;Chievo
+Inter-Verona;23/09/2015;1-0;Inter;Verona
+Verona-AS Roma;22/08/2015;01-gen;Verona;AS Roma
+Bologna-Empoli;19/12/2015;02-mar;Bologna;Empoli
+Bologna-Genoa;24/04/2016;2-0;Bologna;Genoa
+Bologna-Frosinone;20/09/2015;1-0;Bologna;Frosinone
+AC Milan-Fiorentina;17/01/2016;2-0;AC Milan;Fiorentina
+Lazio-Carpi;06/01/2016;0-0;Lazio;Carpi
+Torino-Udinese;20/12/2015;0-1;Torino;Udinese
+Genoa-Bologna;12/12/2015;0-1;Genoa;Bologna
+Carpi-AC Milan;06/12/2015;0-0;Carpi;AC Milan
+Lazio-Atalanta;13/03/2016;2-0;Lazio;Atalanta
+Carpi-AS Roma;12/02/2016;01-mar;Carpi;AS Roma
+Frosinone-Verona;29/11/2015;03-feb;Frosinone;Verona
+Lazio-Bologna;22/08/2015;02-gen;Lazio;Bologna
+Chievo-Inter;20/09/2015;0-1;Chievo;Inter
+Palermo-AC Milan;03/02/2016;0-2;Palermo;AC Milan
+Udinese-AC Milan;22/09/2015;02-mar;Udinese;AC Milan
+Chievo-Empoli;17/01/2016;01-gen;Chievo;Empoli
+Palermo-Chievo;08/11/2015;1-0;Palermo;Chievo
+Atalanta-Palermo;06/12/2015;3-0;Atalanta;Palermo
+Palermo-AS Roma;04/10/2015;02-apr;Palermo;AS Roma
+Udinese-Sampdoria;22/11/2015;1-0;Udinese;Sampdoria
+Torino-AC Milan;17/10/2015;01-gen;Torino;AC Milan
+Empoli-Inter;06/01/2016;0-1;Empoli;Inter
+Palermo-Atalanta;20/04/2016;02-feb;Palermo;Atalanta
+AC Milan-Genoa;14/02/2016;02-gen;AC Milan;Genoa
+Lazio-Frosinone;04/10/2015;2-0;Lazio;Frosinone
+Fiorentina-Napoli;29/02/2016;01-gen;Fiorentina;Napoli
+Udinese-Napoli;03/04/2016;03-gen;Udinese;Napoli
+Inter-Genoa;05/12/2015;1-0;Inter;Genoa
+Genoa-Frosinone;03/04/2016;4-0;Genoa;Frosinone
+Juventus-Inter;28/02/2016;2-0;Juventus;Inter
+Bologna-AC Milan;07/05/2016;0-1;Bologna;AC Milan
+Chievo-AS Roma;06/01/2016;03-mar;Chievo;AS Roma
+Palermo-Carpi;13/09/2015;02-feb;Palermo;Carpi
+AC Milan-Carpi;21/04/2016;0-0;AC Milan;Carpi
+Napoli-Palermo;28/10/2015;2-0;Napoli;Palermo
+Sassuolo-Fiorentina;30/11/2015;01-gen;Sassuolo;Fiorentina
+AS Roma-Palermo;21/02/2016;5-0;AS Roma;Palermo
+Inter-Sampdoria;20/02/2016;03-gen;Inter;Sampdoria
+Lazio-Genoa;23/09/2015;2-0;Lazio;Genoa
+Empoli-Juventus;08/11/2015;01-mar;Empoli;Juventus
+Genoa-Palermo;17/01/2016;4-0;Genoa;Palermo
+Juventus-Udinese;23/08/2015;0-1;Juventus;Udinese
+Sassuolo-Sampdoria;20/04/2016;0-0;Sassuolo;Sampdoria
+Juventus-Bologna;04/10/2015;03-gen;Juventus;Bologna
+Lazio-Udinese;13/09/2015;2-0;Lazio;Udinese
+Genoa-Napoli;01/11/2015;0-0;Genoa;Napoli
+Empoli-Bologna;01/05/2016;0-0;Empoli;Bologna
+AC Milan-Bologna;06/01/2016;0-1;AC Milan;Bologna
+Napoli-Verona;10/04/2016;3-0;Napoli;Verona
+Bologna-Napoli;06/12/2015;03-feb;Bologna;Napoli
+Carpi-Inter;30/08/2015;01-feb;Carpi;Inter
+Fiorentina-Carpi;03/02/2016;02-gen;Fiorentina;Carpi
+AC Milan-Sampdoria;28/11/2015;04-gen;AC Milan;Sampdoria
+AS Roma-Frosinone;30/01/2016;03-gen;AS Roma;Frosinone
+Empoli-Palermo;19/03/2016;0-0;Empoli;Palermo
+Inter-Lazio;20/12/2015;01-feb;Inter;Lazio
+Sampdoria-Udinese;10/04/2016;2-0;Sampdoria;Udinese
+Empoli-Torino;15/05/2016;02-gen;Empoli;Torino
+Empoli-AS Roma;27/02/2016;01-mar;Empoli;AS Roma
+Fiorentina-Juventus;24/04/2016;01-feb;Fiorentina;Juventus
+Verona-Udinese;18/10/2015;01-gen;Verona;Udinese
+Verona-AC Milan;25/04/2016;02-gen;Verona;AC Milan
+Napoli-Torino;06/01/2016;02-gen;Napoli;Torino
+Sassuolo-Lazio;18/10/2015;02-gen;Sassuolo;Lazio
+Frosinone-Palermo;24/04/2016;0-2;Frosinone;Palermo
+Empoli-Frosinone;13/02/2016;01-feb;Empoli;Frosinone
+Inter-Carpi;24/01/2016;01-gen;Inter;Carpi
+Udinese-Bologna;14/02/2016;0-1;Udinese;Bologna
+Napoli-Carpi;07/02/2016;1-0;Napoli;Carpi
+AC Milan-Udinese;07/02/2016;01-gen;AC Milan;Udinese
+Atalanta-AS Roma;17/04/2016;03-mar;Atalanta;AS Roma
+Udinese-Frosinone;25/10/2015;1-0;Udinese;Frosinone
+Torino-Sampdoria;20/09/2015;2-0;Torino;Sampdoria
+Torino-Fiorentina;30/08/2015;03-gen;Torino;Fiorentina
+Inter-Udinese;23/04/2016;03-gen;Inter;Udinese
+Frosinone-Juventus;07/02/2016;0-2;Frosinone;Juventus
+Udinese-Palermo;30/08/2015;0-1;Udinese;Palermo
+Sampdoria-Lazio;24/04/2016;02-gen;Sampdoria;Lazio
+AS Roma-Chievo;08/05/2016;3-0;AS Roma;Chievo
+Sassuolo-Inter;14/05/2016;03-gen;Sassuolo;Inter
+Palermo-Sassuolo;23/09/2015;0-1;Palermo;Sassuolo
+Verona-Fiorentina;28/10/2015;0-2;Verona;Fiorentina

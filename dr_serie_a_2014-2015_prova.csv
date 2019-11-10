@@ -1,0 +1,381 @@
+match;date;result;Home_team;Away_team
+Empoli-Cagliari;25/10/2014;0-4;Empoli;Cagliari
+Torino-Fiorentina;28/09/2014;01-gen;Torino;Fiorentina
+AS Roma-Sampdoria;16/03/2015;0-2;AS Roma;Sampdoria
+Udinese-Chievo;23/11/2014;01-gen;Udinese;Chievo
+Genoa-Lazio;21/09/2014;1-0;Genoa;Lazio
+Atalanta-AC Milan;30/05/2015;01-mar;Atalanta;AC Milan
+Parma-Torino;22/03/2015;0-2;Parma;Torino
+Sampdoria-Sassuolo;08/02/2015;01-gen;Sampdoria;Sassuolo
+Torino-Sassuolo;23/11/2014;0-1;Torino;Sassuolo
+Napoli-Torino;05/10/2014;02-gen;Napoli;Torino
+Udinese-Lazio;15/02/2015;0-1;Udinese;Lazio
+Verona-Torino;07/02/2015;01-mar;Verona;Torino
+Torino-Palermo;06/12/2014;02-feb;Torino;Palermo
+Juventus-Verona;18/01/2015;4-0;Juventus;Verona
+Udinese-Sassuolo;24/05/2015;0-1;Udinese;Sassuolo
+Chievo-Cagliari;29/04/2015;1-0;Chievo;Cagliari
+Parma-Chievo;11/02/2015;0-1;Parma;Chievo
+Sassuolo-AC Milan;17/05/2015;03-feb;Sassuolo;AC Milan
+Atalanta-Verona;31/08/2014;0-0;Atalanta;Verona
+AS Roma-Chievo;18/10/2014;3-0;AS Roma;Chievo
+Chievo-Juventus;30/08/2014;0-1;Chievo;Juventus
+Fiorentina-Sassuolo;24/09/2014;0-0;Fiorentina;Sassuolo
+Chievo-Cesena;09/11/2014;02-gen;Chievo;Cesena
+Napoli-Inter;08/03/2015;02-feb;Napoli;Inter
+Udinese-Cagliari;18/01/2015;02-feb;Udinese;Cagliari
+Torino-Chievo;17/05/2015;2-0;Torino;Chievo
+Sassuolo-Inter;01/02/2015;03-gen;Sassuolo;Inter
+Lazio-Chievo;26/04/2015;01-gen;Lazio;Chievo
+Palermo-Chievo;29/10/2014;1-0;Palermo;Chievo
+Sassuolo-AS Roma;29/04/2015;0-3;Sassuolo;AS Roma
+Verona-Empoli;17/05/2015;02-gen;Verona;Empoli
+AC Milan-Fiorentina;26/10/2014;01-gen;AC Milan;Fiorentina
+Parma-Lazio;07/12/2014;01-feb;Parma;Lazio
+Atalanta-Cesena;07/12/2014;03-feb;Atalanta;Cesena
+Inter-Cesena;15/03/2015;01-gen;Inter;Cesena
+Sassuolo-Udinese;10/01/2015;01-gen;Sassuolo;Udinese
+AC Milan-Udinese;30/11/2014;2-0;AC Milan;Udinese
+Atalanta-Udinese;15/03/2015;0-0;Atalanta;Udinese
+Juventus-Torino;30/11/2014;02-gen;Juventus;Torino
+AC Milan-AS Roma;09/05/2015;02-gen;AC Milan;AS Roma
+Genoa-Torino;11/05/2015;05-gen;Genoa;Torino
+Genoa-Cagliari;11/04/2015;2-0;Genoa;Cagliari
+Cagliari-AS Roma;08/02/2015;01-feb;Cagliari;AS Roma
+Sassuolo-Napoli;28/09/2014;0-1;Sassuolo;Napoli
+Atalanta-Cagliari;01/02/2015;02-gen;Atalanta;Cagliari
+Chievo-Sampdoria;15/02/2015;02-gen;Chievo;Sampdoria
+Cagliari-Atalanta;14/09/2014;01-feb;Cagliari;Atalanta
+AS Roma-Torino;09/11/2014;3-0;AS Roma;Torino
+Udinese-AC Milan;25/04/2015;02-gen;Udinese;AC Milan
+Verona-Palermo;15/09/2014;02-gen;Verona;Palermo
+Fiorentina-Udinese;29/10/2014;3-0;Fiorentina;Udinese
+Parma-Inter;01/11/2014;2-0;Parma;Inter
+Lazio-Empoli;12/04/2015;4-0;Lazio;Empoli
+Palermo-Udinese;09/11/2014;01-gen;Palermo;Udinese
+Fiorentina-Genoa;14/09/2014;0-0;Fiorentina;Genoa
+Udinese-Inter;28/04/2015;01-feb;Udinese;Inter
+Sassuolo-Lazio;01/03/2015;0-3;Sassuolo;Lazio
+Juventus-Udinese;13/09/2014;2-0;Juventus;Udinese
+Atalanta-Inter;15/02/2015;01-apr;Atalanta;Inter
+Cagliari-Sampdoria;19/10/2014;02-feb;Cagliari;Sampdoria
+Cesena-AC Milan;28/09/2014;01-gen;Cesena;AC Milan
+Udinese-Napoli;21/09/2014;1-0;Udinese;Napoli
+Juventus-Parma;09/11/2014;7-0;Juventus;Parma
+Cagliari-Empoli;14/03/2015;01-gen;Cagliari;Empoli
+Chievo-Atalanta;24/05/2015;01-gen;Chievo;Atalanta
+Sampdoria-Torino;14/09/2014;2-0;Sampdoria;Torino
+Torino-Lazio;16/03/2015;0-2;Torino;Lazio
+Empoli-Juventus;01/11/2014;0-2;Empoli;Juventus
+Inter-Napoli;19/10/2014;02-feb;Inter;Napoli
+Fiorentina-Juventus;05/12/2014;0-0;Fiorentina;Juventus
+Juventus-Fiorentina;29/04/2015;03-feb;Juventus;Fiorentina
+AS Roma-Napoli;04/04/2015;1-0;AS Roma;Napoli
+Juventus-Sassuolo;09/03/2015;1-0;Juventus;Sassuolo
+Fiorentina-Torino;22/02/2015;01-gen;Fiorentina;Torino
+Cagliari-AC Milan;29/10/2014;01-gen;Cagliari;AC Milan
+Lazio-AS Roma;25/05/2015;01-feb;Lazio;AS Roma
+Lazio-Sassuolo;05/10/2014;03-feb;Lazio;Sassuolo
+Atalanta-Empoli;26/04/2015;02-feb;Atalanta;Empoli
+Atalanta-Juventus;27/09/2014;0-3;Atalanta;Juventus
+AC Milan-Empoli;15/02/2015;01-gen;AC Milan;Empoli
+Genoa-Cesena;26/04/2015;03-gen;Genoa;Cesena
+AC Milan-Atalanta;18/01/2015;0-1;AC Milan;Atalanta
+AC Milan-Inter;23/11/2014;01-gen;AC Milan;Inter
+Udinese-Fiorentina;22/03/2015;02-feb;Udinese;Fiorentina
+Torino-Juventus;26/04/2015;02-gen;Torino;Juventus
+Fiorentina-Cesena;03/05/2015;03-gen;Fiorentina;Cesena
+Cesena-Inter;26/10/2014;0-1;Cesena;Inter
+AS Roma-Lazio;11/01/2015;02-feb;AS Roma;Lazio
+Verona-Genoa;24/09/2014;02-feb;Verona;Genoa
+AC Milan-Cesena;22/02/2015;2-0;AC Milan;Cesena
+Inter-Parma;04/04/2015;01-gen;Inter;Parma
+Palermo-Sampdoria;31/08/2014;01-gen;Palermo;Sampdoria
+Sampdoria-Palermo;25/01/2015;01-gen;Sampdoria;Palermo
+AC Milan-Palermo;02/11/2014;0-2;AC Milan;Palermo
+Verona-Fiorentina;23/11/2014;01-feb;Verona;Fiorentina
+Cesena-Parma;31/08/2014;1-0;Cesena;Parma
+Inter-Genoa;11/01/2015;03-gen;Inter;Genoa
+AC Milan-Lazio;31/08/2014;03-gen;AC Milan;Lazio
+Palermo-AS Roma;17/01/2015;01-gen;Palermo;AS Roma
+Napoli-Juventus;11/01/2015;01-mar;Napoli;Juventus
+Inter-Cagliari;28/09/2014;01-apr;Inter;Cagliari
+Sassuolo-Palermo;02/05/2015;0-0;Sassuolo;Palermo
+Cesena-Udinese;01/03/2015;1-0;Cesena;Udinese
+AS Roma-Cesena;29/10/2014;2-0;AS Roma;Cesena
+Parma-Empoli;23/11/2014;0-2;Parma;Empoli
+Palermo-AC Milan;04/04/2015;01-feb;Palermo;AC Milan
+AS Roma-Sassuolo;06/12/2014;02-feb;AS Roma;Sassuolo
+Empoli-Parma;19/04/2015;02-feb;Empoli;Parma
+Verona-Napoli;15/03/2015;2-0;Verona;Napoli
+Fiorentina-Inter;05/10/2014;3-0;Fiorentina;Inter
+Napoli-Cesena;18/05/2015;03-feb;Napoli;Cesena
+Cesena-Sassuolo;10/05/2015;02-mar;Cesena;Sassuolo
+Cesena-Genoa;30/11/2014;0-3;Cesena;Genoa
+AS Roma-Atalanta;19/04/2015;01-gen;AS Roma;Atalanta
+Sassuolo-Fiorentina;14/02/2015;01-mar;Sassuolo;Fiorentina
+AS Roma-AC Milan;20/12/2014;0-0;AS Roma;AC Milan
+Chievo-Lazio;29/11/2014;0-0;Chievo;Lazio
+Cagliari-Cesena;11/01/2015;02-gen;Cagliari;Cesena
+Palermo-Juventus;14/03/2015;0-1;Palermo;Juventus
+Cagliari-Palermo;17/05/2015;0-1;Cagliari;Palermo
+Cesena-AS Roma;22/03/2015;0-1;Cesena;AS Roma
+Udinese-Torino;08/03/2015;03-feb;Udinese;Torino
+Lazio-Parma;29/04/2015;4-0;Lazio;Parma
+Juventus-Sampdoria;14/12/2014;01-gen;Juventus;Sampdoria
+Sampdoria-Juventus;02/05/2015;0-1;Sampdoria;Juventus
+Parma-AC Milan;14/09/2014;04-mag;Parma;AC Milan
+Juventus-Cesena;24/09/2014;3-0;Juventus;Cesena
+Torino-Cesena;31/05/2015;5-0;Torino;Cesena
+Cesena-Empoli;20/09/2014;02-feb;Cesena;Empoli
+Inter-AS Roma;25/04/2015;02-gen;Inter;AS Roma
+Napoli-Parma;18/12/2014;2-0;Napoli;Parma
+Torino-Udinese;19/10/2014;1-0;Torino;Udinese
+AC Milan-Parma;01/02/2015;03-gen;AC Milan;Parma
+Sampdoria-Verona;29/04/2015;01-gen;Sampdoria;Verona
+Napoli-Genoa;26/01/2015;02-gen;Napoli;Genoa
+AS Roma-Palermo;31/05/2015;01-feb;AS Roma;Palermo
+Sampdoria-Inter;22/03/2015;1-0;Sampdoria;Inter
+Udinese-AS Roma;06/01/2015;0-1;Udinese;AS Roma
+Inter-Sampdoria;29/10/2014;1-0;Inter;Sampdoria
+Atalanta-Lazio;03/05/2015;01-gen;Atalanta;Lazio
+Sampdoria-Lazio;16/05/2015;0-1;Sampdoria;Lazio
+AC Milan-Napoli;14/12/2014;2-0;AC Milan;Napoli
+Chievo-Genoa;26/10/2014;01-feb;Chievo;Genoa
+Parma-Cesena;25/01/2015;01-feb;Parma;Cesena
+Cesena-Atalanta;29/04/2015;02-feb;Cesena;Atalanta
+Atalanta-Napoli;29/10/2014;01-gen;Atalanta;Napoli
+Palermo-Atalanta;10/05/2015;02-mar;Palermo;Atalanta
+Chievo-AS Roma;08/03/2015;0-0;Chievo;AS Roma
+Atalanta-Chievo;11/01/2015;01-gen;Atalanta;Chievo
+Torino-Atalanta;02/11/2014;0-0;Torino;Atalanta
+Cagliari-Parma;04/05/2015;4-0;Cagliari;Parma
+Juventus-Atalanta;20/02/2015;02-gen;Juventus;Atalanta
+Sassuolo-Parma;15/03/2015;04-gen;Sassuolo;Parma
+Sampdoria-Parma;31/05/2015;02-feb;Sampdoria;Parma
+Lazio-Cesena;14/09/2014;3-0;Lazio;Cesena
+Lazio-Torino;26/10/2014;02-gen;Lazio;Torino
+Empoli-Palermo;05/10/2014;3-0;Empoli;Palermo
+Atalanta-Sampdoria;01/03/2015;01-feb;Atalanta;Sampdoria
+Chievo-Inter;15/12/2014;0-2;Chievo;Inter
+Napoli-AC Milan;03/05/2015;3-0;Napoli;AC Milan
+Lazio-Napoli;18/01/2015;0-1;Lazio;Napoli
+Cagliari-Udinese;31/05/2015;04-mar;Cagliari;Udinese
+Parma-Napoli;10/05/2015;02-feb;Parma;Napoli
+Torino-AC Milan;10/01/2015;01-gen;Torino;AC Milan
+Napoli-Empoli;07/12/2014;02-feb;Napoli;Empoli
+Inter-Palermo;08/02/2015;3-0;Inter;Palermo
+Napoli-Udinese;08/02/2015;03-gen;Napoli;Udinese
+Genoa-Sampdoria;28/09/2014;0-1;Genoa;Sampdoria
+Sampdoria-AS Roma;25/10/2014;0-0;Sampdoria;AS Roma
+Lazio-AC Milan;24/01/2015;03-gen;Lazio;AC Milan
+Genoa-Sassuolo;18/01/2015;03-mar;Genoa;Sassuolo
+AC Milan-Cagliari;21/03/2015;03-gen;AC Milan;Cagliari
+Cagliari-Chievo;08/12/2014;0-2;Cagliari;Chievo
+Lazio-Cagliari;03/11/2014;04-feb;Lazio;Cagliari
+Inter-Atalanta;24/09/2014;2-0;Inter;Atalanta
+Torino-Parma;29/10/2014;1-0;Torino;Parma
+Empoli-Lazio;09/11/2014;02-gen;Empoli;Lazio
+Cesena-Palermo;08/03/2015;0-0;Cesena;Palermo
+Cesena-Napoli;06/01/2015;01-apr;Cesena;Napoli
+Cesena-Fiorentina;14/12/2014;01-apr;Cesena;Fiorentina
+Empoli-Verona;06/01/2015;0-0;Empoli;Verona
+Sassuolo-Empoli;28/10/2014;03-gen;Sassuolo;Empoli
+Genoa-Chievo;15/03/2015;0-2;Genoa;Chievo
+Fiorentina-Napoli;09/11/2014;0-1;Fiorentina;Napoli
+Parma-AS Roma;24/09/2014;01-feb;Parma;AS Roma
+Chievo-Palermo;21/03/2015;1-0;Chievo;Palermo
+Chievo-Verona;10/05/2015;02-feb;Chievo;Verona
+Lazio-Verona;22/03/2015;2-0;Lazio;Verona
+Udinese-Palermo;12/04/2015;01-mar;Udinese;Palermo
+Juventus-Genoa;22/03/2015;1-0;Juventus;Genoa
+AS Roma-Cagliari;21/09/2014;2-0;AS Roma;Cagliari
+Empoli-Cesena;08/02/2015;2-0;Empoli;Cesena
+Fiorentina-Cagliari;26/04/2015;01-mar;Fiorentina;Cagliari
+Inter-Empoli;31/05/2015;04-mar;Inter;Empoli
+Atalanta-Genoa;17/05/2015;01-apr;Atalanta;Genoa
+Verona-Inter;11/04/2015;0-3;Verona;Inter
+Sampdoria-Fiorentina;02/11/2014;03-gen;Sampdoria;Fiorentina
+AC Milan-Torino;24/05/2015;3-0;AC Milan;Torino
+Sampdoria-Cesena;18/04/2015;0-0;Sampdoria;Cesena
+Genoa-Parma;15/04/2015;2-0;Genoa;Parma
+Torino-Napoli;01/03/2015;1-0;Torino;Napoli
+Atalanta-Torino;04/04/2015;01-feb;Atalanta;Torino
+Verona-Lazio;30/10/2014;01-gen;Verona;Lazio
+Fiorentina-Empoli;21/12/2014;01-gen;Fiorentina;Empoli
+Cagliari-Juventus;18/12/2014;01-mar;Cagliari;Juventus
+Verona-Juventus;30/05/2015;02-feb;Verona;Juventus
+AC Milan-Sassuolo;06/01/2015;01-feb;AC Milan;Sassuolo
+Sassuolo-Sampdoria;21/09/2014;0-0;Sassuolo;Sampdoria
+Parma-Atalanta;08/03/2015;0-0;Parma;Atalanta
+Chievo-Sassuolo;02/11/2014;0-0;Chievo;Sassuolo
+Empoli-AC Milan;23/09/2014;02-feb;Empoli;AC Milan
+Cesena-Torino;18/01/2015;02-mar;Cesena;Torino
+Napoli-Chievo;14/09/2014;0-1;Napoli;Chievo
+Napoli-Palermo;24/09/2014;03-mar;Napoli;Palermo
+Napoli-Atalanta;22/03/2015;01-gen;Napoli;Atalanta
+Empoli-Inter;17/01/2015;0-0;Empoli;Inter
+Genoa-Fiorentina;31/01/2015;01-gen;Genoa;Fiorentina
+Empoli-Fiorentina;10/05/2015;02-mar;Empoli;Fiorentina
+Napoli-Cagliari;23/11/2014;03-mar;Napoli;Cagliari
+Napoli-Sampdoria;26/04/2015;04-feb;Napoli;Sampdoria
+Inter-AC Milan;19/04/2015;0-0;Inter;AC Milan
+AS Roma-Udinese;17/05/2015;02-gen;AS Roma;Udinese
+Torino-Empoli;06/05/2015;0-1;Torino;Empoli
+Sampdoria-AC Milan;08/11/2014;02-feb;Sampdoria;AC Milan
+AC Milan-Juventus;20/09/2014;0-1;AC Milan;Juventus
+Palermo-Torino;29/04/2015;02-feb;Palermo;Torino
+Lazio-Genoa;09/02/2015;0-1;Lazio;Genoa
+Udinese-Cesena;05/10/2014;01-gen;Udinese;Cesena
+Inter-Lazio;21/12/2014;02-feb;Inter;Lazio
+Atalanta-Fiorentina;21/09/2014;0-1;Atalanta;Fiorentina
+AS Roma-Empoli;31/01/2015;01-gen;AS Roma;Empoli
+Udinese-Verona;14/12/2014;01-feb;Udinese;Verona
+Juventus-Napoli;23/05/2015;03-gen;Juventus;Napoli
+AC Milan-Chievo;04/10/2014;2-0;AC Milan;Chievo
+Torino-Cagliari;15/02/2015;01-gen;Torino;Cagliari
+Lazio-Inter;10/05/2015;01-feb;Lazio;Inter
+Inter-Chievo;03/05/2015;0-0;Inter;Chievo
+Palermo-Empoli;01/03/2015;0-0;Palermo;Empoli
+Empoli-AS Roma;13/09/2014;0-1;Empoli;AS Roma
+Parma-Fiorentina;06/01/2015;1-0;Parma;Fiorentina
+Parma-Udinese;08/04/2015;1-0;Parma;Udinese
+Napoli-AS Roma;01/11/2014;2-0;Napoli;AS Roma
+Cagliari-Fiorentina;30/11/2014;0-4;Cagliari;Fiorentina
+Empoli-Genoa;08/03/2015;01-gen;Empoli;Genoa
+Verona-Sampdoria;08/12/2014;01-mar;Verona;Sampdoria
+Sassuolo-Juventus;18/10/2014;01-gen;Sassuolo;Juventus
+Sampdoria-Empoli;11/01/2015;1-0;Sampdoria;Empoli
+Cesena-Chievo;12/04/2015;0-1;Cesena;Chievo
+Palermo-Genoa;19/04/2015;02-gen;Palermo;Genoa
+Genoa-AC Milan;07/12/2014;1-0;Genoa;AC Milan
+Palermo-Napoli;14/02/2015;03-gen;Palermo;Napoli
+Cagliari-Lazio;04/04/2015;01-mar;Cagliari;Lazio
+Cagliari-Inter;23/02/2015;01-feb;Cagliari;Inter
+Atalanta-Parma;19/10/2014;1-0;Atalanta;Parma
+Genoa-Napoli;31/08/2014;01-feb;Genoa;Napoli
+Cagliari-Torino;24/09/2014;01-feb;Cagliari;Torino
+Palermo-Verona;01/02/2015;02-gen;Palermo;Verona
+Napoli-Sassuolo;23/02/2015;2-0;Napoli;Sassuolo
+Torino-Inter;31/08/2014;0-0;Torino;Inter
+AS Roma-Juventus;02/03/2015;01-gen;AS Roma;Juventus
+AS Roma-Genoa;03/05/2015;2-0;AS Roma;Genoa
+Sassuolo-Chievo;04/04/2015;1-0;Sassuolo;Chievo
+Atalanta-Sassuolo;12/04/2015;02-gen;Atalanta;Sassuolo
+Genoa-Atalanta;06/01/2015;02-feb;Genoa;Atalanta
+Chievo-Napoli;01/02/2015;01-feb;Chievo;Napoli
+AS Roma-Fiorentina;30/08/2014;2-0;AS Roma;Fiorentina
+Palermo-Parma;30/11/2014;02-gen;Palermo;Parma
+Verona-Udinese;03/05/2015;0-1;Verona;Udinese
+Juventus-Palermo;26/10/2014;2-0;Juventus;Palermo
+Napoli-Fiorentina;12/04/2015;3-0;Napoli;Fiorentina
+Genoa-Udinese;04/04/2015;01-gen;Genoa;Udinese
+Verona-Cesena;04/04/2015;03-mar;Verona;Cesena
+Empoli-Sassuolo;22/03/2015;03-gen;Empoli;Sassuolo
+Verona-Parma;11/01/2015;03-gen;Verona;Parma
+Sassuolo-Torino;19/04/2015;01-gen;Sassuolo;Torino
+Torino-Verona;21/09/2014;0-1;Torino;Verona
+AC Milan-Sampdoria;12/04/2015;01-gen;AC Milan;Sampdoria
+Cagliari-Verona;01/03/2015;01-feb;Cagliari;Verona
+Inter-Juventus;16/05/2015;01-feb;Inter;Juventus
+Chievo-AC Milan;28/02/2015;0-0;Chievo;AC Milan
+Fiorentina-Parma;18/05/2015;3-0;Fiorentina;Parma
+Lazio-Juventus;22/11/2014;0-3;Lazio;Juventus
+Udinese-Juventus;01/02/2015;0-0;Udinese;Juventus
+Cagliari-Napoli;19/04/2015;0-3;Cagliari;Napoli
+Empoli-Napoli;30/04/2015;04-feb;Empoli;Napoli
+Torino-Genoa;21/12/2014;02-gen;Torino;Genoa
+Fiorentina-Lazio;19/10/2014;0-2;Fiorentina;Lazio
+Atalanta-Palermo;21/12/2014;03-mar;Atalanta;Palermo
+Genoa-Empoli;20/10/2014;01-gen;Genoa;Empoli
+Fiorentina-Palermo;11/01/2015;04-mar;Fiorentina;Palermo
+Juventus-Chievo;25/01/2015;2-0;Juventus;Chievo
+Cesena-Cagliari;24/05/2015;0-1;Cesena;Cagliari
+Cesena-Sampdoria;23/11/2014;01-gen;Cesena;Sampdoria
+Verona-Chievo;21/12/2014;0-1;Verona;Chievo
+Genoa-Inter;23/05/2015;03-feb;Genoa;Inter
+Sassuolo-Cesena;20/12/2014;01-gen;Sassuolo;Cesena
+Lazio-Sampdoria;05/01/2015;3-0;Lazio;Sampdoria
+Parma-Sassuolo;25/10/2014;01-mar;Parma;Sassuolo
+Parma-Genoa;05/10/2014;01-feb;Parma;Genoa
+Lazio-Atalanta;13/12/2014;3-0;Lazio;Atalanta
+Palermo-Inter;21/09/2014;01-gen;Palermo;Inter
+Udinese-Parma;29/09/2014;04-feb;Udinese;Parma
+Cagliari-Genoa;09/11/2014;01-gen;Cagliari;Genoa
+Sassuolo-Cagliari;31/08/2014;01-gen;Sassuolo;Cagliari
+Genoa-AS Roma;14/12/2014;0-1;Genoa;AS Roma
+Cagliari-Sassuolo;24/01/2015;02-gen;Cagliari;Sassuolo
+Cesena-Verona;03/11/2014;01-gen;Cesena;Verona
+Sampdoria-Napoli;01/12/2014;01-gen;Sampdoria;Napoli
+Udinese-Sampdoria;10/05/2015;01-apr;Udinese;Sampdoria
+Juventus-Inter;06/01/2015;01-gen;Juventus;Inter
+Sassuolo-Genoa;31/05/2015;03-gen;Sassuolo;Genoa
+AS Roma-Parma;15/02/2015;0-0;AS Roma;Parma
+Inter-Torino;25/01/2015;0-1;Inter;Torino
+Parma-Juventus;11/04/2015;1-0;Parma;Juventus
+Empoli-Sampdoria;24/05/2015;01-gen;Empoli;Sampdoria
+Napoli-Lazio;31/05/2015;02-apr;Napoli;Lazio
+Udinese-Empoli;31/08/2014;2-0;Udinese;Empoli
+Empoli-Chievo;22/02/2015;3-0;Empoli;Chievo
+Palermo-Fiorentina;24/05/2015;02-mar;Palermo;Fiorentina
+Napoli-Verona;26/10/2014;06-feb;Napoli;Verona
+Empoli-Udinese;26/01/2015;01-feb;Empoli;Udinese
+Inter-Sassuolo;14/09/2014;7-0;Inter;Sassuolo
+Verona-AC Milan;19/10/2014;01-mar;Verona;AC Milan
+Sassuolo-Verona;29/11/2014;02-gen;Sassuolo;Verona
+Fiorentina-AC Milan;16/03/2015;02-gen;Fiorentina;AC Milan
+Inter-Fiorentina;01/03/2015;0-1;Inter;Fiorentina
+Lazio-Fiorentina;09/03/2015;4-0;Lazio;Fiorentina
+Juventus-AS Roma;05/10/2014;03-feb;Juventus;AS Roma
+AC Milan-Genoa;29/04/2015;01-mar;AC Milan;Genoa
+Verona-Sassuolo;26/04/2015;03-feb;Verona;Sassuolo
+Torino-AS Roma;12/04/2015;01-gen;Torino;AS Roma
+AS Roma-Verona;27/09/2014;2-0;AS Roma;Verona
+Palermo-Cesena;19/10/2014;02-gen;Palermo;Cesena
+Parma-Palermo;26/04/2015;1-0;Parma;Palermo
+Genoa-Verona;15/02/2015;05-feb;Genoa;Verona
+Genoa-Juventus;29/10/2014;1-0;Genoa;Juventus
+Palermo-Lazio;29/09/2014;0-4;Palermo;Lazio
+Juventus-Lazio;18/04/2015;2-0;Juventus;Lazio
+Juventus-Cagliari;09/05/2015;01-gen;Juventus;Cagliari
+Sampdoria-Chievo;24/09/2014;02-gen;Sampdoria;Chievo
+Juventus-AC Milan;07/02/2015;03-gen;Juventus;AC Milan
+Parma-Cagliari;14/12/2014;0-0;Parma;Cagliari
+Sampdoria-Genoa;24/02/2015;01-gen;Sampdoria;Genoa
+Fiorentina-Atalanta;08/02/2015;03-feb;Fiorentina;Atalanta
+Fiorentina-AS Roma;25/01/2015;01-gen;Fiorentina;AS Roma
+Sampdoria-Atalanta;05/10/2014;1-0;Sampdoria;Atalanta
+Empoli-Torino;15/12/2014;0-0;Empoli;Torino
+Chievo-Udinese;19/04/2015;01-gen;Chievo;Udinese
+Lazio-Udinese;25/09/2014;0-1;Lazio;Udinese
+Fiorentina-Verona;20/04/2015;0-1;Fiorentina;Verona
+Chievo-Fiorentina;18/01/2015;01-feb;Chievo;Fiorentina
+Genoa-Palermo;24/11/2014;01-gen;Genoa;Palermo
+Sampdoria-Cagliari;07/03/2015;2-0;Sampdoria;Cagliari
+AC Milan-Verona;07/03/2015;02-feb;AC Milan;Verona
+Juventus-Empoli;04/04/2015;2-0;Juventus;Empoli
+Chievo-Torino;06/01/2015;0-0;Chievo;Torino
+Sassuolo-Atalanta;08/11/2014;0-0;Sassuolo;Atalanta
+Lazio-Palermo;22/02/2015;02-gen;Lazio;Palermo
+Chievo-Parma;21/09/2014;02-mar;Chievo;Parma
+Fiorentina-Chievo;31/05/2015;3-0;Fiorentina;Chievo
+Verona-AS Roma;22/02/2015;01-gen;Verona;AS Roma
+Udinese-Atalanta;26/10/2014;2-0;Udinese;Atalanta
+Inter-Verona;09/11/2014;02-feb;Inter;Verona
+Inter-Udinese;07/12/2014;01-feb;Inter;Udinese
+Cesena-Juventus;15/02/2015;02-feb;Cesena;Juventus
+Parma-Sampdoria;18/01/2015;0-2;Parma;Sampdoria
+Torino-Sampdoria;01/02/2015;05-gen;Torino;Sampdoria
+Fiorentina-Sampdoria;04/04/2015;2-0;Fiorentina;Sampdoria
+Parma-Verona;24/05/2015;02-feb;Parma;Verona
+Udinese-Genoa;02/11/2014;02-apr;Udinese;Genoa
+Atalanta-AS Roma;22/11/2014;01-feb;Atalanta;AS Roma
+Palermo-Sassuolo;13/12/2014;02-gen;Palermo;Sassuolo
+Cesena-Lazio;01/02/2015;02-gen;Cesena;Lazio
+AS Roma-Inter;30/11/2014;04-feb;AS Roma;Inter
+Palermo-Cagliari;06/01/2015;5-0;Palermo;Cagliari
+Empoli-Atalanta;30/11/2014;0-0;Empoli;Atalanta
+Verona-Cagliari;04/10/2014;1-0;Verona;Cagliari
+Sampdoria-Udinese;21/12/2014;02-feb;Sampdoria;Udinese
+Verona-Atalanta;25/01/2015;1-0;Verona;Atalanta
+Chievo-Empoli;28/09/2014;01-gen;Chievo;Empoli

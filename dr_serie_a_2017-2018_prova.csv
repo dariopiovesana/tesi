@@ -1,0 +1,381 @@
+match;date;result;Home_team;Away_team
+Verona-Bologna;20/11/2017;02-mar;Verona;Bologna
+Napoli-Sassuolo;29/10/2017;03-gen;Napoli;Sassuolo
+Torino-AC Milan;18/04/2018;01-gen;Torino;AC Milan
+Udinese-Atalanta;29/10/2017;02-gen;Udinese;Atalanta
+Sampdoria-Sassuolo;17/12/2017;0-1;Sampdoria;Sassuolo
+Fiorentina-Bologna;16/09/2017;02-gen;Fiorentina;Bologna
+Atalanta-Inter;14/04/2018;0-0;Atalanta;Inter
+Lazio-Crotone;23/12/2017;4-0;Lazio;Crotone
+Chievo-Lazio;27/08/2017;01-feb;Chievo;Lazio
+Torino-Inter;08/04/2018;1-0;Torino;Inter
+Genoa-Torino;20/05/2018;01-feb;Genoa;Torino
+Genoa-Benevento;23/12/2017;1-0;Genoa;Benevento
+Cagliari-Atalanta;20/05/2018;1-0;Cagliari;Atalanta
+Napoli-AC Milan;18/11/2017;02-gen;Napoli;AC Milan
+Cagliari-Verona;05/11/2017;02-gen;Cagliari;Verona
+Chievo-Benevento;20/05/2018;1-0;Chievo;Benevento
+Chievo-Napoli;05/11/2017;0-0;Chievo;Napoli
+Torino-Crotone;04/04/2018;04-gen;Torino;Crotone
+Juventus-Sampdoria;15/04/2018;3-0;Juventus;Sampdoria
+Cagliari-Inter;25/11/2017;01-mar;Cagliari;Inter
+Bologna-Sampdoria;25/11/2017;3-0;Bologna;Sampdoria
+Benevento-Lazio;29/10/2017;01-mag;Benevento;Lazio
+Benevento-Chievo;30/12/2017;1-0;Benevento;Chievo
+AC Milan-Spal;20/09/2017;2-0;AC Milan;Spal
+Benevento-Sassuolo;19/11/2017;01-feb;Benevento;Sassuolo
+Atalanta-Juventus;01/10/2017;02-feb;Atalanta;Juventus
+Sassuolo-Juventus;17/09/2017;01-mar;Sassuolo;Juventus
+Genoa-Cagliari;03/04/2018;02-gen;Genoa;Cagliari
+Napoli-Spal;18/02/2018;1-0;Napoli;Spal
+Sampdoria-Torino;03/02/2018;01-gen;Sampdoria;Torino
+Udinese-Verona;23/12/2017;4-0;Udinese;Verona
+Udinese-Genoa;10/09/2017;1-0;Udinese;Genoa
+Napoli-Inter;21/10/2017;0-0;Napoli;Inter
+Crotone-AS Roma;18/03/2018;0-2;Crotone;AS Roma
+Juventus-Sassuolo;04/02/2018;7-0;Juventus;Sassuolo
+Juventus-Benevento;05/11/2017;02-gen;Juventus;Benevento
+Atalanta-Lazio;17/12/2017;03-mar;Atalanta;Lazio
+Crotone-Cagliari;28/01/2018;01-gen;Crotone;Cagliari
+Atalanta-AS Roma;20/08/2017;0-1;Atalanta;AS Roma
+Crotone-Benevento;24/09/2017;2-0;Crotone;Benevento
+Napoli-Genoa;18/03/2018;1-0;Napoli;Genoa
+AS Roma-Udinese;23/09/2017;03-gen;AS Roma;Udinese
+Lazio-Atalanta;06/05/2018;01-gen;Lazio;Atalanta
+Napoli-AS Roma;03/03/2018;02-apr;Napoli;AS Roma
+Spal-Fiorentina;19/11/2017;01-gen;Spal;Fiorentina
+Udinese-Lazio;08/04/2018;01-feb;Udinese;Lazio
+Spal-Verona;10/12/2017;02-feb;Spal;Verona
+Bologna-Udinese;30/12/2017;01-feb;Bologna;Udinese
+Genoa-AS Roma;26/11/2017;01-gen;Genoa;AS Roma
+Napoli-Sampdoria;23/12/2017;03-feb;Napoli;Sampdoria
+Inter-AC Milan;15/10/2017;03-feb;Inter;AC Milan
+Crotone-Sampdoria;11/03/2018;04-gen;Crotone;Sampdoria
+Juventus-AC Milan;31/03/2018;03-gen;Juventus;AC Milan
+Torino-Juventus;18/02/2018;0-1;Torino;Juventus
+Spal-Benevento;06/05/2018;2-0;Spal;Benevento
+Crotone-Sassuolo;29/04/2018;04-gen;Crotone;Sassuolo
+Fiorentina-Benevento;11/03/2018;1-0;Fiorentina;Benevento
+Fiorentina-Cagliari;13/05/2018;0-1;Fiorentina;Cagliari
+Chievo-AS Roma;10/12/2017;0-0;Chievo;AS Roma
+Fiorentina-Udinese;15/10/2017;02-gen;Fiorentina;Udinese
+Lazio-Juventus;03/03/2018;0-1;Lazio;Juventus
+Benevento-Juventus;07/04/2018;02-apr;Benevento;Juventus
+Spal-Napoli;23/09/2017;02-mar;Spal;Napoli
+Sassuolo-Sampdoria;06/05/2018;1-0;Sassuolo;Sampdoria
+Juventus-Torino;23/09/2017;4-0;Juventus;Torino
+Inter-AS Roma;21/01/2018;01-gen;Inter;AS Roma
+Spal-Inter;28/01/2018;01-gen;Spal;Inter
+Fiorentina-Lazio;18/04/2018;03-apr;Fiorentina;Lazio
+Sampdoria-Udinese;25/02/2018;02-gen;Sampdoria;Udinese
+AS Roma-Juventus;13/05/2018;0-0;AS Roma;Juventus
+Lazio-AC Milan;10/09/2017;04-gen;Lazio;AC Milan
+Fiorentina-Crotone;31/03/2018;2-0;Fiorentina;Crotone
+Juventus-Spal;25/10/2017;04-gen;Juventus;Spal
+Verona-Torino;25/02/2018;02-gen;Verona;Torino
+Napoli-Juventus;01/12/2017;0-1;Napoli;Juventus
+Udinese-Sampdoria;30/09/2017;4-0;Udinese;Sampdoria
+Atalanta-Crotone;20/09/2017;05-gen;Atalanta;Crotone
+Lazio-Genoa;05/02/2018;01-feb;Lazio;Genoa
+Verona-Udinese;13/05/2018;0-1;Verona;Udinese
+Sampdoria-Genoa;07/04/2018;0-0;Sampdoria;Genoa
+AC Milan-Genoa;22/10/2017;0-0;AC Milan;Genoa
+Juventus-Fiorentina;20/09/2017;1-0;Juventus;Fiorentina
+Inter-Spal;10/09/2017;2-0;Inter;Spal
+Udinese-Napoli;26/11/2017;0-1;Udinese;Napoli
+Inter-Sampdoria;24/10/2017;03-feb;Inter;Sampdoria
+Verona-Cagliari;08/04/2018;1-0;Verona;Cagliari
+Udinese-Benevento;10/12/2017;2-0;Udinese;Benevento
+Genoa-Sassuolo;06/01/2018;1-0;Genoa;Sassuolo
+AS Roma-Crotone;25/10/2017;1-0;AS Roma;Crotone
+Udinese-Torino;20/09/2017;02-mar;Udinese;Torino
+AS Roma-Chievo;28/04/2018;04-gen;AS Roma;Chievo
+Cagliari-Juventus;06/01/2018;0-1;Cagliari;Juventus
+Fiorentina-Sassuolo;03/12/2017;3-0;Fiorentina;Sassuolo
+Verona-Lazio;24/09/2017;0-3;Verona;Lazio
+Genoa-Spal;31/03/2018;01-gen;Genoa;Spal
+Benevento-AC Milan;03/12/2017;02-feb;Benevento;AC Milan
+Inter-Bologna;11/02/2018;02-gen;Inter;Bologna
+Atalanta-Bologna;22/10/2017;1-0;Atalanta;Bologna
+Sassuolo-Torino;21/01/2018;01-gen;Sassuolo;Torino
+Lazio-Bologna;18/03/2018;01-gen;Lazio;Bologna
+Verona-Spal;29/04/2018;01-mar;Verona;Spal
+Atalanta-Torino;22/04/2018;02-gen;Atalanta;Torino
+Chievo-Fiorentina;01/10/2017;02-gen;Chievo;Fiorentina
+AS Roma-Sampdoria;28/01/2018;0-1;AS Roma;Sampdoria
+Lazio-Fiorentina;26/11/2017;01-gen;Lazio;Fiorentina
+Chievo-Verona;22/10/2017;03-feb;Chievo;Verona
+Crotone-Verona;27/08/2017;0-0;Crotone;Verona
+Spal-Sampdoria;20/05/2018;03-gen;Spal;Sampdoria
+Inter-Genoa;24/09/2017;1-0;Inter;Genoa
+Verona-Genoa;04/12/2017;0-1;Verona;Genoa
+Udinese-Bologna;20/05/2018;1-0;Udinese;Bologna
+Torino-Chievo;19/11/2017;01-gen;Torino;Chievo
+Chievo-Cagliari;17/02/2018;02-gen;Chievo;Cagliari
+Benevento-Fiorentina;22/10/2017;0-3;Benevento;Fiorentina
+Genoa-Atalanta;12/12/2017;01-feb;Genoa;Atalanta
+Sassuolo-AC Milan;05/11/2017;0-2;Sassuolo;AC Milan
+Cagliari-Lazio;11/03/2018;02-feb;Cagliari;Lazio
+Chievo-Juventus;27/01/2018;0-2;Chievo;Juventus
+Torino-Verona;01/10/2017;02-feb;Torino;Verona
+AS Roma-Napoli;14/10/2017;0-1;AS Roma;Napoli
+Chievo-Inter;22/04/2018;01-feb;Chievo;Inter
+Crotone-AC Milan;20/08/2017;0-3;Crotone;AC Milan
+Inter-Juventus;28/04/2018;02-mar;Inter;Juventus
+Cagliari-AS Roma;06/05/2018;0-1;Cagliari;AS Roma
+AC Milan-Lazio;28/01/2018;02-gen;AC Milan;Lazio
+Napoli-Cagliari;01/10/2017;3-0;Napoli;Cagliari
+Udinese-AC Milan;04/02/2018;01-gen;Udinese;AC Milan
+Spal-Udinese;27/08/2017;03-feb;Spal;Udinese
+Sassuolo-Genoa;20/08/2017;0-0;Sassuolo;Genoa
+Bologna-Lazio;25/10/2017;01-feb;Bologna;Lazio
+Atalanta-Spal;05/11/2017;01-gen;Atalanta;Spal
+Sassuolo-Benevento;15/04/2018;02-feb;Sassuolo;Benevento
+Verona-AS Roma;04/02/2018;0-1;Verona;AS Roma
+Juventus-Cagliari;19/08/2017;3-0;Juventus;Cagliari
+Chievo-Udinese;05/01/2018;01-gen;Chievo;Udinese
+Inter-Sassuolo;12/05/2018;01-feb;Inter;Sassuolo
+Cagliari-Benevento;25/10/2017;02-gen;Cagliari;Benevento
+Genoa-Sampdoria;04/11/2017;0-2;Genoa;Sampdoria
+Lazio-Torino;11/12/2017;01-mar;Lazio;Torino
+Chievo-Spal;25/11/2017;02-gen;Chievo;Spal
+Sampdoria-AS Roma;24/01/2018;01-gen;Sampdoria;AS Roma
+AS Roma-Spal;01/12/2017;03-gen;AS Roma;Spal
+Benevento-Atalanta;18/04/2018;0-3;Benevento;Atalanta
+Fiorentina-Chievo;25/02/2018;1-0;Fiorentina;Chievo
+Cagliari-Sassuolo;20/09/2017;0-1;Cagliari;Sassuolo
+Juventus-Crotone;26/11/2017;3-0;Juventus;Crotone
+Cagliari-Spal;04/02/2018;2-0;Cagliari;Spal
+Sampdoria-Verona;11/02/2018;2-0;Sampdoria;Verona
+Napoli-Benevento;17/09/2017;6-0;Napoli;Benevento
+Spal-AS Roma;21/04/2018;0-3;Spal;AS Roma
+Bologna-Torino;20/08/2017;01-gen;Bologna;Torino
+Atalanta-Napoli;21/01/2018;0-1;Atalanta;Napoli
+Atalanta-Fiorentina;18/02/2018;01-gen;Atalanta;Fiorentina
+Inter-Napoli;11/03/2018;0-0;Inter;Napoli
+Sassuolo-Chievo;15/10/2017;0-0;Sassuolo;Chievo
+Juventus-Chievo;09/09/2017;3-0;Juventus;Chievo
+AS Roma-Lazio;18/11/2017;02-gen;AS Roma;Lazio
+Crotone-Bologna;08/04/2018;1-0;Crotone;Bologna
+Crotone-Juventus;18/04/2018;01-gen;Crotone;Juventus
+Bologna-Chievo;13/05/2018;01-feb;Bologna;Chievo
+Juventus-Inter;09/12/2017;0-0;Juventus;Inter
+Cagliari-AC Milan;21/01/2018;01-feb;Cagliari;AC Milan
+AC Milan-Chievo;18/03/2018;03-feb;AC Milan;Chievo
+Verona-Sassuolo;18/04/2018;0-1;Verona;Sassuolo
+Spal-Cagliari;17/09/2017;0-2;Spal;Cagliari
+Benevento-Torino;10/09/2017;0-1;Benevento;Torino
+Bologna-Verona;15/04/2018;2-0;Bologna;Verona
+Crotone-Udinese;04/12/2017;0-3;Crotone;Udinese
+Udinese-Cagliari;19/11/2017;0-1;Udinese;Cagliari
+Torino-Napoli;16/12/2017;01-mar;Torino;Napoli
+Atalanta-Cagliari;30/12/2017;01-feb;Atalanta;Cagliari
+Bologna-Napoli;10/09/2017;0-3;Bologna;Napoli
+Inter-Crotone;03/02/2018;01-gen;Inter;Crotone
+AS Roma-Genoa;18/04/2018;02-gen;AS Roma;Genoa
+Udinese-Fiorentina;03/04/2018;0-2;Udinese;Fiorentina
+Inter-Cagliari;17/04/2018;4-0;Inter;Cagliari
+AC Milan-Torino;26/11/2017;0-0;AC Milan;Torino
+Verona-Napoli;19/08/2017;01-mar;Verona;Napoli
+Sassuolo-AS Roma;20/05/2018;0-1;Sassuolo;AS Roma
+Atalanta-Chievo;04/02/2018;1-0;Atalanta;Chievo
+Fiorentina-Genoa;17/12/2017;0-0;Fiorentina;Genoa
+Spal-Juventus;17/03/2018;0-0;Spal;Juventus
+Bologna-Juventus;17/12/2017;0-3;Bologna;Juventus
+Napoli-Fiorentina;10/12/2017;0-0;Napoli;Fiorentina
+Fiorentina-Atalanta;24/09/2017;01-gen;Fiorentina;Atalanta
+Benevento-Verona;04/04/2018;3-0;Benevento;Verona
+Crotone-Genoa;19/11/2017;0-1;Crotone;Genoa
+Napoli-Atalanta;27/08/2017;03-gen;Napoli;Atalanta
+Juventus-Genoa;22/01/2018;1-0;Juventus;Genoa
+Cagliari-Sampdoria;09/12/2017;02-feb;Cagliari;Sampdoria
+AC Milan-Bologna;10/12/2017;02-gen;AC Milan;Bologna
+AC Milan-Sassuolo;08/04/2018;01-gen;AC Milan;Sassuolo
+Genoa-Bologna;30/09/2017;0-1;Genoa;Bologna
+Benevento-Sampdoria;06/01/2018;03-feb;Benevento;Sampdoria
+Sassuolo-Bologna;24/09/2017;0-1;Sassuolo;Bologna
+Spal-Sassuolo;22/10/2017;0-1;Spal;Sassuolo
+Sassuolo-Udinese;25/10/2017;0-1;Sassuolo;Udinese
+Sampdoria-Bologna;18/04/2018;1-0;Sampdoria;Bologna
+Sassuolo-Spal;11/03/2018;01-gen;Sassuolo;Spal
+Cagliari-Torino;31/03/2018;0-4;Cagliari;Torino
+Atalanta-Udinese;31/03/2018;2-0;Atalanta;Udinese
+Genoa-Inter;17/02/2018;2-0;Genoa;Inter
+Napoli-Verona;06/01/2018;2-0;Napoli;Verona
+Bologna-Spal;15/10/2017;02-gen;Bologna;Spal
+Sampdoria-Cagliari;29/04/2018;04-gen;Sampdoria;Cagliari
+Chievo-Sassuolo;04/04/2018;01-gen;Chievo;Sassuolo
+Chievo-Torino;14/04/2018;0-0;Chievo;Torino
+Spal-Genoa;29/10/2017;1-0;Spal;Genoa
+Verona-Fiorentina;10/09/2017;0-5;Verona;Fiorentina
+Fiorentina-AC Milan;30/12/2017;01-gen;Fiorentina;AC Milan
+Torino-Sassuolo;27/08/2017;3-0;Torino;Sassuolo
+Spal-Crotone;01/10/2017;01-gen;Spal;Crotone
+Juventus-AS Roma;23/12/2017;1-0;Juventus;AS Roma
+Cagliari-Fiorentina;22/12/2017;0-1;Cagliari;Fiorentina
+Verona-AC Milan;17/12/2017;3-0;Verona;AC Milan
+Udinese-Crotone;22/04/2018;01-feb;Udinese;Crotone
+Juventus-Verona;19/05/2018;02-gen;Juventus;Verona
+AC Milan-Inter;04/04/2018;0-0;AC Milan;Inter
+Chievo-Bologna;22/12/2017;02-mar;Chievo;Bologna
+Bologna-Cagliari;03/12/2017;01-gen;Bologna;Cagliari
+Sampdoria-Benevento;20/08/2017;02-gen;Sampdoria;Benevento
+Cagliari-Genoa;15/10/2017;02-mar;Cagliari;Genoa
+Sampdoria-Fiorentina;21/01/2018;03-gen;Sampdoria;Fiorentina
+Genoa-Crotone;14/04/2018;1-0;Genoa;Crotone
+Sampdoria-Lazio;03/12/2017;01-feb;Sampdoria;Lazio
+Sampdoria-Crotone;21/10/2017;5-0;Sampdoria;Crotone
+Juventus-Udinese;11/03/2018;2-0;Juventus;Udinese
+Udinese-Chievo;20/08/2017;01-feb;Udinese;Chievo
+Bologna-AC Milan;29/04/2018;01-feb;Bologna;AC Milan
+Napoli-Udinese;18/04/2018;04-feb;Napoli;Udinese
+Genoa-Fiorentina;06/05/2018;02-mar;Genoa;Fiorentina
+Benevento-Cagliari;18/03/2018;01-feb;Benevento;Cagliari
+Udinese-Spal;21/01/2018;01-gen;Udinese;Spal
+Torino-Lazio;29/04/2018;0-1;Torino;Lazio
+Sampdoria-Atalanta;15/10/2017;03-gen;Sampdoria;Atalanta
+Torino-Genoa;30/12/2017;0-0;Torino;Genoa
+Juventus-Atalanta;14/03/2018;2-0;Juventus;Atalanta
+Lazio-Udinese;24/01/2018;3-0;Lazio;Udinese
+Benevento-Inter;01/10/2017;01-feb;Benevento;Inter
+Verona-Crotone;21/01/2018;0-3;Verona;Crotone
+Torino-Udinese;11/02/2018;2-0;Torino;Udinese
+Fiorentina-Juventus;09/02/2018;0-2;Fiorentina;Juventus
+Atalanta-Genoa;29/04/2018;03-gen;Atalanta;Genoa
+AC Milan-Verona;05/05/2018;04-gen;AC Milan;Verona
+Bologna-Benevento;21/01/2018;3-0;Bologna;Benevento
+Crotone-Chievo;17/12/2017;1-0;Crotone;Chievo
+Torino-Benevento;28/01/2018;3-0;Torino;Benevento
+Crotone-Inter;16/09/2017;0-2;Crotone;Inter
+AS Roma-Inter;26/08/2017;01-mar;AS Roma;Inter
+Inter-Torino;05/11/2017;01-gen;Inter;Torino
+Crotone-Fiorentina;29/10/2017;02-gen;Crotone;Fiorentina
+Fiorentina-AS Roma;05/11/2017;02-apr;Fiorentina;AS Roma
+Sampdoria-AC Milan;24/09/2017;2-0;Sampdoria;AC Milan
+Sassuolo-Crotone;10/12/2017;02-gen;Sassuolo;Crotone
+AC Milan-AS Roma;01/10/2017;0-2;AC Milan;AS Roma
+Benevento-Napoli;04/02/2018;0-2;Benevento;Napoli
+Genoa-Verona;23/04/2018;03-gen;Genoa;Verona
+AS Roma-Benevento;11/02/2018;05-feb;AS Roma;Benevento
+Inter-Verona;31/03/2018;3-0;Inter;Verona
+Atalanta-Verona;25/10/2017;3-0;Atalanta;Verona
+Lazio-Sampdoria;22/04/2018;4-0;Lazio;Sampdoria
+Sampdoria-Juventus;19/11/2017;03-feb;Sampdoria;Juventus
+Chievo-Sampdoria;31/03/2018;02-gen;Chievo;Sampdoria
+Udinese-Inter;06/05/2018;0-4;Udinese;Inter
+Sassuolo-Lazio;25/02/2018;0-3;Sassuolo;Lazio
+Crotone-Torino;15/10/2017;02-feb;Crotone;Torino
+Spal-Lazio;06/01/2018;02-mag;Spal;Lazio
+Sampdoria-Spal;30/12/2017;2-0;Sampdoria;Spal
+Napoli-Lazio;10/02/2018;04-gen;Napoli;Lazio
+AC Milan-Juventus;28/10/2017;0-2;AC Milan;Juventus
+Juventus-Lazio;14/10/2017;01-feb;Juventus;Lazio
+Torino-Cagliari;29/10/2017;02-gen;Torino;Cagliari
+Torino-Bologna;06/01/2018;3-0;Torino;Bologna
+Bologna-Inter;19/09/2017;01-gen;Bologna;Inter
+Lazio-Chievo;21/01/2018;05-gen;Lazio;Chievo
+Napoli-Bologna;28/01/2018;03-gen;Napoli;Bologna
+Lazio-Spal;20/08/2017;0-0;Lazio;Spal
+Atalanta-Sampdoria;03/04/2018;01-feb;Atalanta;Sampdoria
+Benevento-Bologna;26/08/2017;0-1;Benevento;Bologna
+AC Milan-Benevento;21/04/2018;0-1;AC Milan;Benevento
+AS Roma-Atalanta;06/01/2018;01-feb;AS Roma;Atalanta
+Udinese-Sassuolo;17/03/2018;01-feb;Udinese;Sassuolo
+Inter-Chievo;03/12/2017;5-0;Inter;Chievo
+Fiorentina-Inter;05/01/2018;01-gen;Fiorentina;Inter
+Spal-AC Milan;10/02/2018;0-4;Spal;AC Milan
+Spal-Bologna;03/03/2018;1-0;Spal;Bologna
+Crotone-Spal;25/02/2018;02-mar;Crotone;Spal
+AS Roma-Sassuolo;30/12/2017;01-gen;AS Roma;Sassuolo
+Verona-Inter;30/10/2017;01-feb;Verona;Inter
+Benevento-Crotone;18/02/2018;03-feb;Benevento;Crotone
+Bologna-Atalanta;11/03/2018;0-1;Bologna;Atalanta
+Sassuolo-Verona;25/11/2017;0-2;Sassuolo;Verona
+Benevento-Udinese;29/04/2018;03-mar;Benevento;Udinese
+Napoli-Chievo;08/04/2018;02-gen;Napoli;Chievo
+Genoa-Juventus;26/08/2017;02-apr;Genoa;Juventus
+Spal-Atalanta;07/04/2018;01-gen;Spal;Atalanta
+Crotone-Atalanta;10/02/2018;01-gen;Crotone;Atalanta
+AC Milan-Crotone;06/01/2018;1-0;AC Milan;Crotone
+Juventus-Bologna;05/05/2018;03-gen;Juventus;Bologna
+Atalanta-AC Milan;13/05/2018;01-gen;Atalanta;AC Milan
+Genoa-Lazio;17/09/2017;02-mar;Genoa;Lazio
+Inter-Udinese;16/12/2017;01-mar;Inter;Udinese
+Cagliari-Crotone;10/09/2017;1-0;Cagliari;Crotone
+Spal-Torino;23/12/2017;02-feb;Spal;Torino
+Chievo-Crotone;06/05/2018;02-gen;Chievo;Crotone
+AC Milan-Fiorentina;20/05/2018;05-gen;AC Milan;Fiorentina
+Torino-Spal;13/05/2018;02-gen;Torino;Spal
+AC Milan-Sampdoria;18/02/2018;1-0;AC Milan;Sampdoria
+Fiorentina-Napoli;29/04/2018;3-0;Fiorentina;Napoli
+Bologna-AS Roma;31/03/2018;01-gen;Bologna;AS Roma
+Cagliari-Chievo;24/09/2017;0-2;Cagliari;Chievo
+Fiorentina-Spal;15/04/2018;0-0;Fiorentina;Spal
+Verona-Sampdoria;20/09/2017;0-0;Verona;Sampdoria
+AC Milan-Udinese;17/09/2017;02-gen;AC Milan;Udinese
+Torino-Sampdoria;17/09/2017;02-feb;Torino;Sampdoria
+Benevento-Genoa;12/05/2018;1-0;Benevento;Genoa
+Sassuolo-Inter;23/12/2017;1-0;Sassuolo;Inter
+Benevento-Spal;17/12/2017;01-feb;Benevento;Spal
+AC Milan-Atalanta;23/12/2017;0-2;AC Milan;Atalanta
+Genoa-Napoli;25/10/2017;02-mar;Genoa;Napoli
+Lazio-Verona;19/02/2018;2-0;Lazio;Verona
+Crotone-Lazio;13/05/2018;02-feb;Crotone;Lazio
+Genoa-Udinese;28/01/2018;0-1;Genoa;Udinese
+Inter-Lazio;30/12/2017;0-0;Inter;Lazio
+Genoa-AC Milan;11/03/2018;0-1;Genoa;AC Milan
+Atalanta-Sassuolo;10/09/2017;02-gen;Atalanta;Sassuolo
+AS Roma-Verona;16/09/2017;3-0;AS Roma;Verona
+AS Roma-AC Milan;25/02/2018;0-2;AS Roma;AC Milan
+Cagliari-Napoli;26/02/2018;0-5;Cagliari;Napoli
+Sampdoria-Napoli;13/05/2018;0-2;Sampdoria;Napoli
+Fiorentina-Verona;28/01/2018;01-apr;Fiorentina;Verona
+Torino-Atalanta;02/12/2017;01-gen;Torino;Atalanta
+Cagliari-Bologna;22/04/2018;0-0;Cagliari;Bologna
+Sampdoria-Chievo;29/10/2017;04-gen;Sampdoria;Chievo
+AS Roma-Cagliari;16/12/2017;1-0;AS Roma;Cagliari
+Torino-Fiorentina;18/03/2018;01-feb;Torino;Fiorentina
+Fiorentina-Sampdoria;27/08/2017;01-feb;Fiorentina;Sampdoria
+Sassuolo-Atalanta;27/01/2018;0-3;Sassuolo;Atalanta
+Cagliari-Udinese;14/04/2018;02-gen;Cagliari;Udinese
+Verona-Benevento;16/10/2017;1-0;Verona;Benevento
+Napoli-Torino;06/05/2018;02-feb;Napoli;Torino
+AS Roma-Torino;09/03/2018;3-0;AS Roma;Torino
+Fiorentina-Torino;25/10/2017;3-0;Fiorentina;Torino
+AS Roma-Fiorentina;07/04/2018;0-2;AS Roma;Fiorentina
+Genoa-Chievo;20/09/2017;01-gen;Genoa;Chievo
+Chievo-Genoa;11/02/2018;0-1;Chievo;Genoa
+AS Roma-Bologna;28/10/2017;1-0;AS Roma;Bologna
+Juventus-Napoli;22/04/2018;0-1;Juventus;Napoli
+AC Milan-Cagliari;27/08/2017;02-gen;AC Milan;Cagliari
+Sassuolo-Fiorentina;21/04/2018;1-0;Sassuolo;Fiorentina
+Sampdoria-Inter;18/03/2018;0-5;Sampdoria;Inter
+Torino-AS Roma;22/10/2017;0-1;Torino;AS Roma
+Lazio-Inter;20/05/2018;02-mar;Lazio;Inter
+Lazio-Cagliari;22/10/2017;3-0;Lazio;Cagliari
+Verona-Chievo;10/03/2018;1-0;Verona;Chievo
+Sassuolo-Napoli;31/03/2018;01-gen;Sassuolo;Napoli
+Sassuolo-Cagliari;11/02/2018;0-0;Sassuolo;Cagliari
+Lazio-Napoli;20/09/2017;01-apr;Lazio;Napoli
+Verona-Atalanta;18/03/2018;0-5;Verona;Atalanta
+Benevento-AS Roma;20/09/2017;0-4;Benevento;AS Roma
+Lazio-Sassuolo;01/10/2017;06-gen;Lazio;Sassuolo
+Udinese-AS Roma;17/02/2018;0-2;Udinese;AS Roma
+Bologna-Sassuolo;18/02/2018;02-gen;Bologna;Sassuolo
+Chievo-AC Milan;25/10/2017;01-apr;Chievo;AC Milan
+Napoli-Crotone;20/05/2018;02-gen;Napoli;Crotone
+Bologna-Genoa;24/02/2018;2-0;Bologna;Genoa
+Inter-Benevento;24/02/2018;2-0;Inter;Benevento
+Bologna-Crotone;04/11/2017;02-mar;Bologna;Crotone
+Bologna-Fiorentina;04/02/2018;01-feb;Bologna;Fiorentina
+Crotone-Napoli;29/12/2017;0-1;Crotone;Napoli
+Inter-Fiorentina;20/08/2017;3-0;Inter;Fiorentina
+Udinese-Juventus;22/10/2017;02-giu;Udinese;Juventus
+Lazio-AS Roma;15/04/2018;0-0;Lazio;AS Roma
+Chievo-Atalanta;17/09/2017;01-gen;Chievo;Atalanta
+AC Milan-Napoli;15/04/2018;0-0;AC Milan;Napoli
+Inter-Atalanta;19/11/2017;2-0;Inter;Atalanta
+Spal-Chievo;18/04/2018;0-0;Spal;Chievo
+Atalanta-Benevento;27/11/2017;1-0;Atalanta;Benevento
+Lazio-Benevento;31/03/2018;06-feb;Lazio;Benevento
+Verona-Juventus;30/12/2017;01-mar;Verona;Juventus

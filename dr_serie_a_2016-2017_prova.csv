@@ -1,0 +1,381 @@
+match;date;result;Home_team;Away_team
+Bologna-Crotone;21/08/2016;1-0;Bologna;Crotone
+Genoa-AC Milan;25/10/2016;3-0;Genoa;AC Milan
+AS Roma-Sampdoria;11/09/2016;03-feb;AS Roma;Sampdoria
+Sampdoria-Empoli;15/01/2017;0-0;Sampdoria;Empoli
+Sassuolo-Pescara;28/08/2016;0-3 AWA.;Sassuolo;Pescara
+Lazio-Sassuolo;30/10/2016;02-gen;Lazio;Sassuolo
+Inter-Genoa;11/12/2016;2-0;Inter;Genoa
+Udinese-Inter;08/01/2017;01-feb;Udinese;Inter
+Inter-Palermo;28/08/2016;01-gen;Inter;Palermo
+Inter-Juventus;18/09/2016;02-gen;Inter;Juventus
+AC Milan-Chievo;04/03/2017;03-gen;AC Milan;Chievo
+Sassuolo-Torino;08/01/2017;0-0;Sassuolo;Torino
+Napoli-Lazio;05/11/2016;01-gen;Napoli;Lazio
+Atalanta-Udinese;11/12/2016;01-mar;Atalanta;Udinese
+Empoli-Inter;21/09/2016;0-2;Empoli;Inter
+Juventus-Palermo;17/02/2017;04-gen;Juventus;Palermo
+Juventus-Empoli;25/02/2017;2-0;Juventus;Empoli
+Empoli-Cagliari;17/12/2016;2-0;Empoli;Cagliari
+Sassuolo-Bologna;12/03/2017;0-1;Sassuolo;Bologna
+Palermo-Cagliari;02/04/2017;01-mar;Palermo;Cagliari
+Sampdoria-Bologna;12/02/2017;03-gen;Sampdoria;Bologna
+Pescara-Cagliari;04/12/2016;01-gen;Pescara;Cagliari
+Napoli-Sampdoria;07/01/2017;02-gen;Napoli;Sampdoria
+Empoli-AS Roma;30/10/2016;0-0;Empoli;AS Roma
+Napoli-Juventus;02/04/2017;01-gen;Napoli;Juventus
+Sampdoria-AS Roma;29/01/2017;03-feb;Sampdoria;AS Roma
+Udinese-Fiorentina;21/09/2016;02-feb;Udinese;Fiorentina
+Cagliari-Pescara;30/04/2017;1-0;Cagliari;Pescara
+Atalanta-Palermo;21/09/2016;0-1;Atalanta;Palermo
+Bologna-Cagliari;11/09/2016;02-gen;Bologna;Cagliari
+AS Roma-AC Milan;12/12/2016;1-0;AS Roma;AC Milan
+Lazio-Cagliari;26/10/2016;04-gen;Lazio;Cagliari
+Cagliari-Udinese;27/11/2016;02-gen;Cagliari;Udinese
+Palermo-Sassuolo;21/08/2016;0-1;Palermo;Sassuolo
+Juventus-Napoli;29/10/2016;02-gen;Juventus;Napoli
+Torino-Udinese;02/04/2017;02-feb;Torino;Udinese
+AC Milan-Inter;20/11/2016;02-feb;AC Milan;Inter
+Torino-Crotone;15/04/2017;01-gen;Torino;Crotone
+Crotone-Cagliari;26/02/2017;01-feb;Crotone;Cagliari
+Cagliari-Sassuolo;22/12/2016;04-mar;Cagliari;Sassuolo
+Napoli-Genoa;10/02/2017;2-0;Napoli;Genoa
+Sampdoria-AC Milan;16/09/2016;0-1;Sampdoria;AC Milan
+Palermo-AS Roma;12/03/2017;0-3;Palermo;AS Roma
+Fiorentina-Genoa;29/01/2017;03-mar;Fiorentina;Genoa
+AC Milan-AS Roma;07/05/2017;01-apr;AC Milan;AS Roma
+Bologna-Genoa;02/10/2016;0-1;Bologna;Genoa
+Empoli-Sampdoria;21/08/2016;0-1;Empoli;Sampdoria
+Bologna-AC Milan;08/02/2017;0-1;Bologna;AC Milan
+AS Roma-Udinese;20/08/2016;4-0;AS Roma;Udinese
+Genoa-Juventus;27/11/2016;03-gen;Genoa;Juventus
+Atalanta-Juventus;28/04/2017;02-feb;Atalanta;Juventus
+Sampdoria-Inter;30/10/2016;1-0;Sampdoria;Inter
+AC Milan-Napoli;21/01/2017;01-feb;AC Milan;Napoli
+Crotone-Sassuolo;05/03/2017;0-0;Crotone;Sassuolo
+Sampdoria-Napoli;28/05/2017;02-apr;Sampdoria;Napoli
+Empoli-Crotone;12/09/2016;02-gen;Empoli;Crotone
+Sassuolo-AS Roma;26/10/2016;01-mar;Sassuolo;AS Roma
+Lazio-AS Roma;04/12/2016;0-2;Lazio;AS Roma
+Empoli-Atalanta;21/05/2017;0-1;Empoli;Atalanta
+Fiorentina-Torino;27/02/2017;02-feb;Fiorentina;Torino
+AS Roma-Napoli;04/03/2017;01-feb;AS Roma;Napoli
+Bologna-Fiorentina;29/10/2016;0-1;Bologna;Fiorentina
+Pescara-AC Milan;02/04/2017;01-gen;Pescara;AC Milan
+Napoli-Udinese;15/04/2017;3-0;Napoli;Udinese
+Napoli-Empoli;26/10/2016;2-0;Napoli;Empoli
+Chievo-Torino;23/04/2017;01-mar;Chievo;Torino
+AC Milan-Lazio;20/09/2016;2-0;AC Milan;Lazio
+Sassuolo-Empoli;04/12/2016;3-0;Sassuolo;Empoli
+Fiorentina-Empoli;15/04/2017;01-feb;Fiorentina;Empoli
+Bologna-Atalanta;27/11/2016;0-2;Bologna;Atalanta
+Genoa-Crotone;22/01/2017;02-feb;Genoa;Crotone
+Lazio-Torino;13/03/2017;03-gen;Lazio;Torino
+Atalanta-Torino;11/09/2016;02-gen;Atalanta;Torino
+Palermo-Lazio;27/11/2016;0-1;Palermo;Lazio
+Empoli-Torino;05/02/2017;01-gen;Empoli;Torino
+AC Milan-Bologna;21/05/2017;3-0;AC Milan;Bologna
+Pescara-AS Roma;24/04/2017;01-apr;Pescara;AS Roma
+Bologna-Lazio;05/03/2017;0-2;Bologna;Lazio
+Udinese-Sassuolo;19/02/2017;01-feb;Udinese;Sassuolo
+Sampdoria-Pescara;04/03/2017;03-gen;Sampdoria;Pescara
+Inter-Sassuolo;14/05/2017;01-feb;Inter;Sassuolo
+Crotone-AS Roma;12/02/2017;0-2;Crotone;AS Roma
+Lazio-Fiorentina;18/12/2016;03-gen;Lazio;Fiorentina
+Pescara-Inter;11/09/2016;01-feb;Pescara;Inter
+Sassuolo-Genoa;18/09/2016;2-0;Sassuolo;Genoa
+Fiorentina-Chievo;28/08/2016;1-0;Fiorentina;Chievo
+Cagliari-Torino;09/04/2017;02-mar;Cagliari;Torino
+Inter-Udinese;28/05/2017;05-feb;Inter;Udinese
+Genoa-Bologna;26/02/2017;01-gen;Genoa;Bologna
+Empoli-AC Milan;26/11/2016;01-apr;Empoli;AC Milan
+AC Milan-Palermo;09/04/2017;4-0;AC Milan;Palermo
+Atalanta-Genoa;30/10/2016;3-0;Atalanta;Genoa
+Cagliari-Sampdoria;26/09/2016;02-gen;Cagliari;Sampdoria
+Crotone-Juventus;08/02/2017;0-2;Crotone;Juventus
+Crotone-Bologna;14/01/2017;0-1;Crotone;Bologna
+Pescara-Lazio;05/02/2017;02-giu;Pescara;Lazio
+Crotone-Torino;20/11/2016;0-2;Crotone;Torino
+Chievo-Pescara;26/02/2017;2-0;Chievo;Pescara
+AS Roma-Torino;19/02/2017;04-gen;AS Roma;Torino
+Palermo-AC Milan;06/11/2016;01-feb;Palermo;AC Milan
+Chievo-Atalanta;08/01/2017;01-apr;Chievo;Atalanta
+Sassuolo-Cagliari;21/05/2017;06-feb;Sassuolo;Cagliari
+Lazio-Napoli;09/04/2017;0-3;Lazio;Napoli
+Palermo-Torino;17/10/2016;01-apr;Palermo;Torino
+Pescara-Palermo;22/05/2017;2-0;Pescara;Palermo
+Juventus-Bologna;08/01/2017;3-0;Juventus;Bologna
+Crotone-Lazio;28/05/2017;03-gen;Crotone;Lazio
+Torino-Empoli;18/09/2016;0-0;Torino;Empoli
+AC Milan-Pescara;30/10/2016;1-0;AC Milan;Pescara
+Inter-Bologna;25/09/2016;01-gen;Inter;Bologna
+AS Roma-Cagliari;22/01/2017;1-0;AS Roma;Cagliari
+Crotone-Empoli;29/01/2017;04-gen;Crotone;Empoli
+Genoa-Atalanta;02/04/2017;0-5;Genoa;Atalanta
+Napoli-Inter;02/12/2016;3-0;Napoli;Inter
+Empoli-Lazio;18/02/2017;01-feb;Empoli;Lazio
+Fiorentina-Lazio;13/05/2017;03-feb;Fiorentina;Lazio
+Sampdoria-Juventus;19/03/2017;0-1;Sampdoria;Juventus
+Sassuolo-Inter;18/12/2016;0-1;Sassuolo;Inter
+Inter-Atalanta;12/03/2017;07-gen;Inter;Atalanta
+Cagliari-Juventus;12/02/2017;0-2;Cagliari;Juventus
+Udinese-Bologna;05/12/2016;1-0;Udinese;Bologna
+Crotone-Atalanta;26/09/2016;01-mar;Crotone;Atalanta
+Sassuolo-Udinese;25/09/2016;1-0;Sassuolo;Udinese
+Genoa-Cagliari;21/08/2016;03-gen;Genoa;Cagliari
+Palermo-Crotone;05/02/2017;1-0;Palermo;Crotone
+Torino-Genoa;22/12/2016;1-0;Torino;Genoa
+AC Milan-Genoa;18/03/2017;1-0;AC Milan;Genoa
+Atalanta-Crotone;18/02/2017;1-0;Atalanta;Crotone
+Bologna-Torino;22/01/2017;2-0;Bologna;Torino
+Napoli-Bologna;17/09/2016;03-gen;Napoli;Bologna
+Chievo-AC Milan;16/10/2016;01-mar;Chievo;AC Milan
+Palermo-Bologna;15/04/2017;0-0;Palermo;Bologna
+Napoli-Palermo;29/01/2017;01-gen;Napoli;Palermo
+Sassuolo-Fiorentina;07/05/2017;02-feb;Sassuolo;Fiorentina
+Sampdoria-Cagliari;19/02/2017;01-gen;Sampdoria;Cagliari
+Lazio-Crotone;08/01/2017;1-0;Lazio;Crotone
+Udinese-AS Roma;15/01/2017;0-1;Udinese;AS Roma
+Crotone-AC Milan;30/04/2017;01-gen;Crotone;AC Milan
+Napoli-Atalanta;25/02/2017;0-2;Napoli;Atalanta
+Sassuolo-Napoli;23/04/2017;02-feb;Sassuolo;Napoli
+Napoli-Sassuolo;28/11/2016;01-gen;Napoli;Sassuolo
+Lazio-Juventus;27/08/2016;0-1;Lazio;Juventus
+Palermo-Juventus;24/09/2016;0-1;Palermo;Juventus
+Lazio-Bologna;16/10/2016;01-gen;Lazio;Bologna
+Fiorentina-Atalanta;16/10/2016;0-0;Fiorentina;Atalanta
+Udinese-Cagliari;23/04/2017;02-gen;Udinese;Cagliari
+AS Roma-Fiorentina;07/02/2017;4-0;AS Roma;Fiorentina
+Atalanta-Lazio;21/08/2016;03-apr;Atalanta;Lazio
+Torino-Cagliari;05/11/2016;05-gen;Torino;Cagliari
+Juventus-Fiorentina;20/08/2016;02-gen;Juventus;Fiorentina
+Bologna-Chievo;19/03/2017;04-gen;Bologna;Chievo
+Lazio-Atalanta;15/01/2017;02-gen;Lazio;Atalanta
+Napoli-Pescara;15/01/2017;03-gen;Napoli;Pescara
+Lazio-Palermo;23/04/2017;06-feb;Lazio;Palermo
+Chievo-Crotone;02/04/2017;01-feb;Chievo;Crotone
+Sassuolo-Juventus;29/01/2017;0-2;Sassuolo;Juventus
+Pescara-Fiorentina;01/02/2017;01-feb;Pescara;Fiorentina
+AC Milan-Sampdoria;05/02/2017;0-1;AC Milan;Sampdoria
+Pescara-Atalanta;26/10/2016;0-1;Pescara;Atalanta
+Fiorentina-Juventus;15/01/2017;02-gen;Fiorentina;Juventus
+Genoa-Lazio;15/04/2017;02-feb;Genoa;Lazio
+Pescara-Chievo;01/10/2016;0-2;Pescara;Chievo
+Genoa-Sassuolo;05/02/2017;0-1;Genoa;Sassuolo
+Torino-AS Roma;25/09/2016;03-gen;Torino;AS Roma
+Inter-Empoli;12/02/2017;2-0;Inter;Empoli
+Cagliari-Empoli;14/05/2017;03-feb;Cagliari;Empoli
+Genoa-Chievo;30/04/2017;01-feb;Genoa;Chievo
+Chievo-Palermo;07/05/2017;01-gen;Chievo;Palermo
+Udinese-Empoli;28/08/2016;2-0;Udinese;Empoli
+Pescara-Bologna;18/12/2016;0-3;Pescara;Bologna
+Crotone-Chievo;30/10/2016;2-0;Crotone;Chievo
+Atalanta-Sampdoria;22/01/2017;1-0;Atalanta;Sampdoria
+Juventus-Lazio;22/01/2017;2-0;Juventus;Lazio
+Fiorentina-Udinese;11/02/2017;3-0;Fiorentina;Udinese
+Fiorentina-Sampdoria;06/11/2016;01-gen;Fiorentina;Sampdoria
+Palermo-Fiorentina;30/04/2017;2-0;Palermo;Fiorentina
+Cagliari-Lazio;19/03/2017;0-0;Cagliari;Lazio
+Torino-Inter;18/03/2017;02-feb;Torino;Inter
+Empoli-Bologna;07/05/2017;03-gen;Empoli;Bologna
+Sampdoria-Atalanta;28/08/2016;02-gen;Sampdoria;Atalanta
+Juventus-Pescara;19/11/2016;3-0;Juventus;Pescara
+Udinese-Palermo;19/03/2017;04-gen;Udinese;Palermo
+Sampdoria-Chievo;14/05/2017;01-gen;Sampdoria;Chievo
+Genoa-AS Roma;08/01/2017;0-1;Genoa;AS Roma
+Palermo-Empoli;28/05/2017;02-gen;Palermo;Empoli
+Inter-AS Roma;26/02/2017;01-mar;Inter;AS Roma
+Sassuolo-Chievo;12/02/2017;01-mar;Sassuolo;Chievo
+Palermo-Udinese;27/10/2016;01-mar;Palermo;Udinese
+Inter-Lazio;21/12/2016;3-0;Inter;Lazio
+Fiorentina-Crotone;26/10/2016;01-gen;Fiorentina;Crotone
+Bologna-Pescara;14/05/2017;03-gen;Bologna;Pescara
+Sampdoria-Lazio;10/12/2016;01-feb;Sampdoria;Lazio
+Crotone-Sampdoria;27/11/2016;01-gen;Crotone;Sampdoria
+Cagliari-Fiorentina;23/10/2016;03-mag;Cagliari;Fiorentina
+AS Roma-Sassuolo;19/03/2017;03-gen;AS Roma;Sassuolo
+Bologna-Napoli;04/02/2017;01-lug;Bologna;Napoli
+Udinese-Atalanta;07/05/2017;01-gen;Udinese;Atalanta
+Pescara-Crotone;07/05/2017;0-1;Pescara;Crotone
+AC Milan-Empoli;23/04/2017;01-feb;AC Milan;Empoli
+Inter-Fiorentina;28/11/2016;04-feb;Inter;Fiorentina
+Genoa-Udinese;06/11/2016;01-gen;Genoa;Udinese
+Chievo-Sassuolo;21/09/2016;02-gen;Chievo;Sassuolo
+Atalanta-Chievo;27/05/2017;1-0;Atalanta;Chievo
+AS Roma-Pescara;27/11/2016;03-feb;AS Roma;Pescara
+Sassuolo-Lazio;01/04/2017;01-feb;Sassuolo;Lazio
+Bologna-Empoli;11/12/2016;0-0;Bologna;Empoli
+Bologna-Inter;19/02/2017;0-1;Bologna;Inter
+Chievo-Empoli;12/03/2017;4-0;Chievo;Empoli
+Atalanta-Bologna;22/04/2017;03-feb;Atalanta;Bologna
+Cagliari-AC Milan;28/05/2017;02-gen;Cagliari;AC Milan
+Juventus-Crotone;21/05/2017;3-0;Juventus;Crotone
+Fiorentina-Napoli;22/12/2016;03-mar;Fiorentina;Napoli
+Udinese-Juventus;05/03/2017;01-gen;Udinese;Juventus
+Genoa-Inter;07/05/2017;1-0;Genoa;Inter
+Torino-Chievo;26/11/2016;02-gen;Torino;Chievo
+Chievo-Bologna;26/10/2016;01-gen;Chievo;Bologna
+Pescara-Napoli;21/08/2016;02-feb;Pescara;Napoli
+Juventus-Cagliari;21/09/2016;4-0;Juventus;Cagliari
+Inter-Sampdoria;03/04/2017;01-feb;Inter;Sampdoria
+AC Milan-Torino;21/08/2016;03-feb;AC Milan;Torino
+AC Milan-Crotone;04/12/2016;02-gen;AC Milan;Crotone
+Atalanta-AS Roma;20/11/2016;02-gen;Atalanta;AS Roma
+Fiorentina-Pescara;28/05/2017;02-feb;Fiorentina;Pescara
+Atalanta-Fiorentina;05/03/2017;0-0;Atalanta;Fiorentina
+AS Roma-Empoli;01/04/2017;2-0;AS Roma;Empoli
+Inter-Napoli;30/04/2017;0-1;Inter;Napoli
+Crotone-Inter;09/04/2017;02-gen;Crotone;Inter
+Fiorentina-Inter;22/04/2017;05-apr;Fiorentina;Inter
+Torino-Fiorentina;02/10/2016;02-gen;Torino;Fiorentina
+AS Roma-Crotone;21/09/2016;4-0;AS Roma;Crotone
+Inter-AC Milan;15/04/2017;02-feb;Inter;AC Milan
+Lazio-Chievo;28/01/2017;0-1;Lazio;Chievo
+AC Milan-Udinese;11/09/2016;0-1;AC Milan;Udinese
+Inter-Chievo;14/01/2017;03-gen;Inter;Chievo
+Palermo-Napoli;10/09/2016;0-3;Palermo;Napoli
+AS Roma-Chievo;22/12/2016;03-gen;AS Roma;Chievo
+Torino-Bologna;28/08/2016;05-gen;Torino;Bologna
+Palermo-Sampdoria;26/02/2017;01-gen;Palermo;Sampdoria
+Cagliari-Genoa;15/01/2017;04-gen;Cagliari;Genoa
+Udinese-Napoli;19/11/2016;01-feb;Udinese;Napoli
+Genoa-Empoli;16/10/2016;0-0;Genoa;Empoli
+Empoli-Napoli;19/03/2017;02-mar;Empoli;Napoli
+AS Roma-Palermo;23/10/2016;04-gen;AS Roma;Palermo
+Sampdoria-Palermo;02/10/2016;01-gen;Sampdoria;Palermo
+Torino-Juventus;11/12/2016;01-mar;Torino;Juventus
+Sampdoria-Torino;04/12/2016;2-0;Sampdoria;Torino
+Cagliari-Atalanta;18/09/2016;3-0;Cagliari;Atalanta
+Chievo-AS Roma;20/05/2017;03-mag;Chievo;AS Roma
+Cagliari-Napoli;11/12/2016;0-5;Cagliari;Napoli
+Lazio-Genoa;20/11/2016;03-gen;Lazio;Genoa
+Udinese-Crotone;18/12/2016;2-0;Udinese;Crotone
+Fiorentina-Palermo;04/12/2016;02-gen;Fiorentina;Palermo
+Napoli-Fiorentina;20/05/2017;04-gen;Napoli;Fiorentina
+Torino-Pescara;12/02/2017;05-mar;Torino;Pescara
+Genoa-Fiorentina;15/12/2016;1-0;Genoa;Fiorentina
+Palermo-Atalanta;12/02/2017;01-mar;Palermo;Atalanta
+Napoli-AS Roma;15/10/2016;01-mar;Napoli;AS Roma
+Atalanta-Cagliari;05/02/2017;2-0;Atalanta;Cagliari
+Chievo-Lazio;11/09/2016;01-gen;Chievo;Lazio
+Torino-Lazio;23/10/2016;02-feb;Torino;Lazio
+Torino-Palermo;05/03/2017;03-gen;Torino;Palermo
+Atalanta-Inter;23/10/2016;02-gen;Atalanta;Inter
+Juventus-Sassuolo;10/09/2016;03-gen;Juventus;Sassuolo
+AC Milan-Cagliari;08/01/2017;1-0;AC Milan;Cagliari
+Sampdoria-Fiorentina;09/04/2017;02-feb;Sampdoria;Fiorentina
+Inter-Crotone;06/11/2016;3-0;Inter;Crotone
+Chievo-Cagliari;19/11/2016;1-0;Chievo;Cagliari
+Sassuolo-Sampdoria;15/04/2017;02-gen;Sassuolo;Sampdoria
+Sassuolo-Crotone;16/10/2016;02-gen;Sassuolo;Crotone
+Fiorentina-Sassuolo;12/12/2016;02-gen;Fiorentina;Sassuolo
+Lazio-Udinese;26/02/2017;1-0;Lazio;Udinese
+Inter-Pescara;28/01/2017;3-0;Inter;Pescara
+Sampdoria-Udinese;22/12/2016;0-0;Sampdoria;Udinese
+Juventus-Sampdoria;26/10/2016;04-gen;Juventus;Sampdoria
+Udinese-Pescara;23/10/2016;03-gen;Udinese;Pescara
+Pescara-Empoli;06/11/2016;0-4;Pescara;Empoli
+Chievo-Genoa;05/12/2016;0-0;Chievo;Genoa
+Pescara-Genoa;19/02/2017;5-0;Pescara;Genoa
+Bologna-Palermo;20/11/2016;03-gen;Bologna;Palermo
+Crotone-Pescara;10/12/2016;02-gen;Crotone;Pescara
+Fiorentina-AS Roma;18/09/2016;1-0;Fiorentina;AS Roma
+Cagliari-Chievo;15/04/2017;4-0;Cagliari;Chievo
+AS Roma-Bologna;06/11/2016;3-0;AS Roma;Bologna
+Empoli-Pescara;08/04/2017;01-gen;Empoli;Pescara
+Genoa-Pescara;25/09/2016;01-gen;Genoa;Pescara
+Empoli-Udinese;22/01/2017;1-0;Empoli;Udinese
+Atalanta-Napoli;02/10/2016;1-0;Atalanta;Napoli
+Chievo-Juventus;06/11/2016;01-feb;Chievo;Juventus
+Lazio-AC Milan;13/02/2017;01-gen;Lazio;AC Milan
+Empoli-Fiorentina;20/11/2016;0-4;Empoli;Fiorentina
+Napoli-Cagliari;06/05/2017;03-gen;Napoli;Cagliari
+Napoli-Chievo;24/09/2016;2-0;Napoli;Chievo
+Empoli-Genoa;05/03/2017;0-2;Empoli;Genoa
+Pescara-Udinese;12/03/2017;01-mar;Pescara;Udinese
+Juventus-Inter;05/02/2017;1-0;Juventus;Inter
+Empoli-Chievo;23/10/2016;0-0;Empoli;Chievo
+Chievo-Sampdoria;18/12/2016;02-gen;Chievo;Sampdoria
+Torino-AC Milan;16/01/2017;02-feb;Torino;AC Milan
+Udinese-Chievo;18/09/2016;01-feb;Udinese;Chievo
+Inter-Cagliari;16/10/2016;01-feb;Inter;Cagliari
+Palermo-Inter;22/01/2017;0-1;Palermo;Inter
+Crotone-Genoa;28/08/2016;01-mar;Crotone;Genoa
+Fiorentina-AC Milan;25/09/2016;0-0;Fiorentina;AC Milan
+Sampdoria-Genoa;22/10/2016;02-gen;Sampdoria;Genoa
+Bologna-AS Roma;09/04/2017;0-3;Bologna;AS Roma
+Atalanta-Empoli;20/12/2016;02-gen;Atalanta;Empoli
+Udinese-Genoa;09/04/2017;3-0;Udinese;Genoa
+Sampdoria-Sassuolo;20/11/2016;03-feb;Sampdoria;Sassuolo
+Juventus-Atalanta;03/12/2016;03-gen;Juventus;Atalanta
+Crotone-Fiorentina;19/03/2017;0-1;Crotone;Fiorentina
+Pescara-Torino;21/09/2016;0-0;Pescara;Torino
+Cagliari-Crotone;02/10/2016;02-gen;Cagliari;Crotone
+Bologna-Juventus;27/05/2017;01-feb;Bologna;Juventus
+Chievo-Fiorentina;21/01/2017;0-3;Chievo;Fiorentina
+Fiorentina-Bologna;02/04/2017;1-0;Fiorentina;Bologna
+Lazio-Sampdoria;07/05/2017;07-mar;Lazio;Sampdoria
+Cagliari-Inter;05/03/2017;01-mag;Cagliari;Inter
+Genoa-Napoli;21/09/2016;0-0;Genoa;Napoli
+Juventus-AS Roma;17/12/2016;1-0;Juventus;AS Roma
+Sassuolo-Atalanta;06/11/2016;0-3;Sassuolo;Atalanta
+Empoli-Sassuolo;30/04/2017;01-mar;Empoli;Sassuolo
+Juventus-Torino;06/05/2017;01-gen;Juventus;Torino
+AS Roma-Genoa;28/05/2017;03-feb;AS Roma;Genoa
+Juventus-Chievo;08/04/2017;2-0;Juventus;Chievo
+Bologna-Sassuolo;23/10/2016;01-gen;Bologna;Sassuolo
+Napoli-AC Milan;27/08/2016;04-feb;Napoli;AC Milan
+Udinese-Torino;31/10/2016;02-feb;Udinese;Torino
+Fiorentina-Cagliari;12/03/2017;1-0;Fiorentina;Cagliari
+AS Roma-Lazio;30/04/2017;01-mar;AS Roma;Lazio
+AS Roma-Juventus;14/05/2017;03-gen;AS Roma;Juventus
+Udinese-Sampdoria;21/05/2017;01-gen;Udinese;Sampdoria
+Lazio-Pescara;17/09/2016;3-0;Lazio;Pescara
+AC Milan-Sassuolo;02/10/2016;04-mar;AC Milan;Sassuolo
+Atalanta-Pescara;19/03/2017;3-0;Atalanta;Pescara
+Atalanta-Sassuolo;08/04/2017;01-gen;Atalanta;Sassuolo
+Pescara-Sampdoria;15/10/2016;01-gen;Pescara;Sampdoria
+AS Roma-Atalanta;15/04/2017;01-gen;AS Roma;Atalanta
+Bologna-Sampdoria;21/09/2016;2-0;Bologna;Sampdoria
+Lazio-Inter;21/05/2017;01-mar;Lazio;Inter
+Inter-Torino;26/10/2016;02-gen;Inter;Torino
+Udinese-AC Milan;29/01/2017;02-gen;Udinese;AC Milan
+Juventus-Genoa;23/04/2017;4-0;Juventus;Genoa
+Cagliari-Palermo;31/10/2016;02-gen;Cagliari;Palermo
+Crotone-Udinese;14/05/2017;1-0;Crotone;Udinese
+Torino-Atalanta;29/01/2017;01-gen;Torino;Atalanta
+Sassuolo-Palermo;15/01/2017;04-gen;Sassuolo;Palermo
+Crotone-Palermo;18/09/2016;01-gen;Crotone;Palermo
+Cagliari-Bologna;29/01/2017;01-gen;Cagliari;Bologna
+Atalanta-AC Milan;13/05/2017;01-gen;Atalanta;AC Milan
+Torino-Napoli;14/05/2017;0-5;Torino;Napoli
+Bologna-Udinese;30/04/2017;4-0;Bologna;Udinese
+Udinese-Lazio;01/10/2016;0-3;Udinese;Lazio
+Chievo-Inter;21/08/2016;2-0;Chievo;Inter
+Pescara-Juventus;15/04/2017;0-2;Pescara;Juventus
+AS Roma-Inter;02/10/2016;02-gen;AS Roma;Inter
+Cagliari-AS Roma;28/08/2016;02-feb;Cagliari;AS Roma
+Genoa-Palermo;18/12/2016;03-apr;Genoa;Palermo
+Sassuolo-AC Milan;26/02/2017;0-1;Sassuolo;AC Milan
+Pescara-Sassuolo;22/01/2017;01-mar;Pescara;Sassuolo
+Juventus-Udinese;15/10/2016;02-gen;Juventus;Udinese
+Empoli-Juventus;02/10/2016;0-3;Empoli;Juventus
+Empoli-Palermo;07/01/2017;1-0;Empoli;Palermo
+Genoa-Torino;21/05/2017;02-gen;Genoa;Torino
+Lazio-Empoli;25/09/2016;2-0;Lazio;Empoli
+Genoa-Sampdoria;11/03/2017;0-1;Genoa;Sampdoria
+Torino-Sampdoria;29/04/2017;01-gen;Torino;Sampdoria
+Chievo-Napoli;19/02/2017;01-mar;Chievo;Napoli
+Palermo-Genoa;14/05/2017;1-0;Palermo;Genoa
+AC Milan-Fiorentina;19/02/2017;02-gen;AC Milan;Fiorentina
+Chievo-Udinese;05/02/2017;0-0;Chievo;Udinese
+Crotone-Napoli;23/10/2016;01-feb;Crotone;Napoli
+AC Milan-Atalanta;17/12/2016;0-0;AC Milan;Atalanta
+Napoli-Torino;18/12/2016;05-mar;Napoli;Torino
+AC Milan-Juventus;22/10/2016;1-0;AC Milan;Juventus
+Sampdoria-Crotone;23/04/2017;01-feb;Sampdoria;Crotone
+Torino-Sassuolo;28/05/2017;05-mar;Torino;Sassuolo
+Napoli-Crotone;12/03/2017;3-0;Napoli;Crotone
+Palermo-Chievo;11/12/2016;0-2;Palermo;Chievo
+Juventus-AC Milan;10/03/2017;02-gen;Juventus;AC Milan
+Palermo-Pescara;22/12/2016;01-gen;Palermo;Pescara
