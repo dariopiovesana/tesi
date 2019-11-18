@@ -1,4 +1,0 @@
-"guadagno del giorno" "guadagno complessivo" "data"
-"1" -481 -17 2019-11-17
-"12" 381 464 2019-11-16
-"11" 83 83 2019-11-15
