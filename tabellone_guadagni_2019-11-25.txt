@@ -1,0 +1,6 @@
+"match" "odd" "bet" "bookmakers" "result" "gain"
+"1" "SPAL - GENOA" 4.5 "X" "1XBET" "1-1" 175
+"2" "BLOOMING - ROYAL PARI SION" 2.15 "1" "BETTER" "1-1" -50
+"3" "EL GOUNAH - AL-AHLY CAIRO" 5.85 "X" "NORDICBET" "0-4" -50
+"4" "EL GOUNAH - AL-AHLY CAIRO" 1.61 "2" "1XBET" "0-4" 30.5
+"5" "INDEPENDIENTE DEL VALLE - DELFIN" 1.8 "1" "EUROBET" "0-0" -50
