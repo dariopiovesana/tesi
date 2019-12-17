@@ -1,0 +1,4 @@
+"match" "odd" "bet" "bookmakers" "result" "gain"
+"1" "DARMSTADT - STOCCARDA" 2 "2" "CORAL" "1-1" -50
+"2" "RACING CLUB RELIZANE - AMAL BOU SAADA" 1.6 "1" "BET-AT-HOME" "2-1" 30
+"3" "DRB TADJENANT - JSM SKIKDA" 1.65 "1" "BET-AT-HOME" "1-1" -50
