@@ -1,0 +1,2 @@
+"V1" "V2" "V3" "V4"
+"g" "HAPOEL PETACH-TIKVA - HAPOEL AFULA" "2.15" "1" "18BET"
