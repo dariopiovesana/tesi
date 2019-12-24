@@ -1,0 +1,2 @@
+"match" "odd" "bet" "bookmakers" "result" "gain"
+"1" "HAPOEL PETACH-TIKVA - HAPOEL AFULA" 2.15 "1" "18BET" "1-1" -50
