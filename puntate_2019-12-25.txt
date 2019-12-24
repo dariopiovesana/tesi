@@ -1,0 +1,4 @@
+"V1" "V2" "V3" "V4"
+"g" "HAPOEL TEL AVIV - MS ASHDOD" "3.64" "2" "STS"
+"g" "ENPPI - HARAS EL HODOOD" "2.8" "1" "NETBET"
+"g" "EL GAISH - EL MASRY" "3.6" "2" "VCBET"
