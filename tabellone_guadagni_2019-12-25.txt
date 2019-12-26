@@ -1,0 +1,4 @@
+"match" "odd" "bet" "bookmakers" "result" "gain"
+"1" "HAPOEL TEL AVIV - MS ASHDOD" 3.64 "2" "STS" "0-0" -50
+"2" "ENPPI - HARAS EL HODOOD" 2.8 "1" "NETBET" "0-0" -50
+"3" "EL GAISH - EL MASRY" 3.6 "2" "VCBET" "0-1" 130
