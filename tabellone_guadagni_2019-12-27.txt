@@ -1,0 +1,5 @@
+"match" "odd" "bet" "bookmakers" "result" "gain"
+"2" "ESPERANCE DE TUNIS - AS VITA CLUB" 1.27 "1" "NORDICBET" "0-0" -50
+"3" "PRISONS - YOUNG AFRICANS" 5.5 "1" "WILLIAMHILL" "0-1" -50
+"4" "PERSEPOLIS - NASSAJI MAZANDARAN" 3.98 "X" "1XBET" "1-0" -50
+"5" "HAPOEL AFULA FC - HAPOEL BNEI LOD" 4.4 "2" "18BET" "2-2" -50
