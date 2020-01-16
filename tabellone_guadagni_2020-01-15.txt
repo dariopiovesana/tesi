@@ -1,0 +1,9 @@
+"match" "odd" "bet" "bookmakers" "result" "gain"
+"1" "MILAN - SPAL" 1.47 "1" "18BET" "3-0" 23.5
+"2" "AJAX CAPE TOWN - TS SPORTING" 1.25 "1" "1XBET" "0-1" -50
+"3" "UZBEKISTAN U23 - SOUTH KOREA U23" 3 "X" "NORDICBET" "1-2" -50
+"4" "SAUDI ARABIA U23 - SYRIA U23" 3.2 "X" "BET365" "1-0" -50
+"5" "TRENCIN - KARVINA" 4.46 "2" "1XBET" "0-0" -50
+"6" "TRENCIN - FRYDEK-MISTEK" 4.2 "2" "BETFAIR" "0-0" -50
+"7" "HARTBERG - WEIZ" 1.23 "1" "1XBET" "6-1" 11.5
+"8" "AL-ITTIHAD JEDDAH - OC SAFI" 2.3 "1" "TOTO" "1-1" -50
