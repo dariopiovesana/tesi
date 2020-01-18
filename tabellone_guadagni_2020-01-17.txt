@@ -1,0 +1,5 @@
+"match" "odd" "bet" "bookmakers" "result" "gain"
+"1" "ASSU - SPORT CLUB SANTA CRUZ" 2.62 "2" "CORAL" "0-3" 81
+"2" "HAPOEL BNEI LOD - HAPOEL UMM AL-FAHM" 1.95 "2" "18BET" "2-0" -50
+"3" "TPS - SALPA" 1.2 "1" "1XBET" "2-0" 10
+"4" "SAO PAULO FC SP U20 - CORITIBA U20" 1.41 "1" "1XBET" "3-1" 20.5
