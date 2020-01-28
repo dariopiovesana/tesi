@@ -1,0 +1,4 @@
+"match" "odd" "bet" "bookmakers" "result" "gain"
+"1" "WALTER FERRETI - ART MUNICIPAL JALAPA" 1.57 "1" "BET365" "2-2" -50
+"2" "BASFORD UNITED - WITTON ALBION" 1.82 "1" "PINNACLE" "1-0" 41
+"3" "SUNDERLAND U23 - WIGAN ATHLETIC U23" 2.88 "1" "PINNACLE" "2-3" -50
