@@ -1,0 +1,6 @@
+"match" "odd" "bet" "bookmakers" "result" "gain"
+"1" "FLAMENGO-RJ - FLUMINENSE-RJ" 1.81 "2" "1XBET" "0-1" 40.5
+"2" "SAHAB CLUB - AL-WEHDAT" 7.7 "1" "1XBET" "0-2" -50
+"3" "SAHAB CLUB - AL-WEHDAT" 1.95 "2" "BWIN" "0-2" 47.5
+"4" "CORITIBA PR - OPERARIO PR" 5.25 "2" "SPORTINGBET" "1-1" -50
+"5" "MEXICO (W) - JAMAICA (W)" 1.36 "1" "UNIBET" "1-0" 18
